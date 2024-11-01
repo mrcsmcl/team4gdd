@@ -1,15 +1,12 @@
 ---
-title: TOC
+title: Quick Links to GDD Sections
 description: 
 published: 1
-date: 2024-11-01T17:50:57.915Z
+date: 2024-11-01T17:51:17.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-01T17:50:57.915Z
 ---
-
-# Quick Links to GDD Sections
-<br>
 
 - [Project Overview](/home)
 - [Art and Visual Design](./art-and-visual-design)
