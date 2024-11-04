@@ -2,7 +2,7 @@
 title: Level and World Design
 description: 
 published: 1
-date: 2024-11-04T13:46:10.027Z
+date: 2024-11-04T13:46:40.785Z
 tags: level, world design
 editor: markdown
 dateCreated: 2024-10-24T13:19:48.859Z
@@ -63,7 +63,7 @@ The game’s levels are set in a variety of environments within a futuristic cor
 
 ## Facility
 
-[![Facility](https://i.imgur.com/5YFd4sF.png "Facility"){ width="800" height="600" style="display: block; margin: 0 auto" }](https://imgur.com/a/Yd5mEHM)
+[![Facility](https://i.imgur.com/5YFd4sF.png "Facility")](https://imgur.com/a/Yd5mEHM)
 
 ## Floor
 
