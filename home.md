@@ -2,7 +2,7 @@
 title: Project Overview
 description: 
 published: 1
-date: 2024-11-04T12:34:27.465Z
+date: 2024-11-04T12:40:54.232Z
 tags: overview
 editor: markdown
 dateCreated: 2024-10-24T13:03:37.927Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-24T13:03:37.927Z
 
 # High Concept
 
-A futuristic co-op stealth escape game where two characters—one navigating the physical world and the other navigating cyberspace—must work together to escape a high-security facility. As they progress, each character unlocks crucial abilities that aid their survival and help them avoid detection.
+A futuristic co-op stealth escape game where two characters—one navigating the physical world and the other infiltrating the digital systems—must work together to escape a high-security facility. As they progress, each character unlocks critical abilities essential for overcoming obstacles and avoiding detection.
 
 # Genre
 
@@ -46,14 +46,15 @@ A futuristic co-op stealth escape game where two characters—one navigating the
 
 # Game Summary
 
-In a high-tech futuristic world, two operatives undertake a dangerous mission to infiltrate and escape a secure facility. One player navigates the physical environment in 3D, evading security measures and unlocking barriers, while the other player, trapped in the digital system, moves through a 2D cyberspace, solving puzzles that influence the physical world. Working together, they must avoid detection and find the extraction point before time runs out.
+In a high-tech futuristic world, two operatives team up to escape a high-security facility. One player controls the 3D character navigating the physical space, evading guards and unlocking paths, while the other player infiltrates the facility’s digital systems in a 2D interface. The 2D player starts with limited access, only able to suggest directions to the 3D player. As they solve puzzles and hack into deeper system levels, they gain new abilities, including real-time camera access, door controls, and the ability to intercept guard communications. This allows the 2D player to guide the 3D player safely through the environment, avoiding detection and unlocking alternative routes.
 
 # Key Features
 
-- Dual Perspectives: Unique 3D and 2D gameplay with interdependent mechanics.
-- Co-op Gameplay: Both players must communicate and coordinate actions in real-time.
-- Stealth Mechanics: 3D player avoids AI guards, hides, and disables security systems.
-- Puzzle Solving: 2D player solves platformer-style puzzles to unlock paths and assist the 3D player.
-- Speedrun Mode: Timed challenges to encourage fast and efficient gameplay.
-- Futuristic Setting: A high-security facility with advanced technology and digital systems.
+- Dual Perspectives: Asymmetrical gameplay with interconnected 3D and 2D mechanics.
+- Co-op Gameplay: Both players must communicate and coordinate actions in real time.
+- Stealth Mechanics: The 3D player evades guards, hides, and disables security systems while the 2D player provides strategic support.
+- Progressive Hacking Abilities: The 2D player gradually unlocks tools like security camera views, door controls, and access to enemy communications.
+- Puzzle Solving: The 2D player solves hacking puzzles to unlock paths and reveal safe routes.
+- Speedrun Mode: Timed challenges that encourage fast, efficient teamwork.
+- Futuristic Setting: A high-security facility with advanced technology and complex digital defenses.
 - Single-player Mode: Option to play with AI or switch between the two characters.
