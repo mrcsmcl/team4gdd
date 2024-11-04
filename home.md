@@ -2,7 +2,7 @@
 title: Project Overview
 description: 
 published: 1
-date: 2024-11-04T12:31:18.557Z
+date: 2024-11-04T12:34:27.465Z
 tags: overview
 editor: markdown
 dateCreated: 2024-10-24T13:03:37.927Z
@@ -46,7 +46,7 @@ A futuristic co-op stealth escape game where two characters—one navigating the
 
 # Game Summary
 
-- In a high-tech futuristic world, two operatives undertake a dangerous mission to infiltrate and escape a secure facility. One player navigates the physical environment in 3D, evading security measures and unlocking barriers, while the other player, trapped in the digital system, moves through a 2D cyberspace, solving puzzles that influence the physical world. Working together, they must avoid detection and find the extraction point before time runs out.
+In a high-tech futuristic world, two operatives undertake a dangerous mission to infiltrate and escape a secure facility. One player navigates the physical environment in 3D, evading security measures and unlocking barriers, while the other player, trapped in the digital system, moves through a 2D cyberspace, solving puzzles that influence the physical world. Working together, they must avoid detection and find the extraction point before time runs out.
 
 # Key Features
 
