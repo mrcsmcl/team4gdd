@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2024-11-05T00:43:19.524Z
+date: 2024-11-05T01:04:52.375Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -11,67 +11,52 @@ dateCreated: 2024-10-24T13:31:37.454Z
 # Art Style
 <br>
 
-## 3D Player's World
+The game’s art style embraces a clean, futuristic aesthetic with smooth surfaces, sharp lines, and a streamlined design. This world is filled with polished metals, soft glows, and minimalist architecture that reflects a high-tech facility built for function and security. The colors lean toward cool tones, with a palette of whites, grays, and blues, accented by subtle, strategically placed neon lights. The environments and assets are designed to feel sterile and efficient, conveying the sense of a meticulously controlled and organized space.
 
-The 3D world is designed with a sleek, modern-futuristic aesthetic that feels advanced yet grounded. Buildings and structures emphasize smooth lines and minimalist, geometric designs, creating an organized and high-tech environment. The world is brightly illuminated with cool, diffused lighting, giving a sense of cleanliness and order. Surfaces are primarily metallic with glass and polished concrete elements, while occasional touches of blue or white LED lighting accentuate the futuristic look.
+## Key Features
 
-- Lighting: Soft white and blue lights are used to illuminate hallways, doors, and control panels. The lighting is indirect but purposeful, with well-defined shadows that add depth without overwhelming the minimalist look.
-
-- Textures: Predominantly smooth and reflective surfaces, with matte concrete, brushed metal, and glass finishes that enhance the sterile, high-tech ambiance.
-
-- Color Scheme: A focus on whites, silvers, and grays with subtle blue accents to highlight technology and key objects, maintaining a polished, streamlined look.
-
-
-## 2D Player's World
-
-The 2D world is stylized and digital, representing a virtual network within the mainframe. It consists of clean, grid-like patterns and abstract forms, evoking a sense of navigating through a controlled, artificial environment. This world features vibrant, glowing colors on a dark background, creating a high-contrast look that distinguishes elements like firewalls, nodes, and pathways.
-
-- Visual Design: Geometric shapes and neon-colored lines represent data pathways and obstacles. Icons and symbols simplify complex systems, making it clear which areas are accessible and which are locked.
-
-- Color Scheme: High-contrast colors, such as neon blues, greens, and purples, against a deep, dark background, emphasizing a digital and abstract feel.
-
-- Transitions: Subtle pulses or shifts in color intensity highlight system interactions or responses to player actions, adding a dynamic feel to an otherwise static grid.
-
+- Minimalism: Focused on simplicity and function, with very little clutter or unnecessary detailing.
+- Cool Color Palette: Whites, silvers, and blues dominate, with occasional warm accents for emphasis on important objects or UI elements.
+- Glowing Elements: Small lights and panels glow gently, indicating interactive or essential elements. These effects are kept subtle to maintain a sleek look.
+- Polished Surfaces: Most surfaces are smooth, reflective, and pristine, giving the setting a clinical, futuristic feel.
 
 # 3D Models or 2D Sprites
 
-3D Models: The 3D player, guards, and other NPCs are high-definition models with a futuristic look. The 3D player model features streamlined, utilitarian clothing, with subtle tech accessories that fit the setting. Environmental objects, such as doors, consoles, and security cameras, are designed with a minimalist, high-tech appearance. Decorative elements are limited, focusing on functionality and clean lines.
+Since the game involves both 2D and 3D modes, the art direction for each player’s perspective will vary slightly to fit their respective views while maintaining consistency in the overall design.
 
-2D Sprites: The 2D world relies on simplified sprites that reflect different system elements. Firewalls, nodes, and data pathways appear as colorful, pulsing shapes. Each sprite is distinct yet minimalist, using geometric forms to ensure clarity. Small animations, such as pulsing colors or glitch effects, help add life to this virtual environment.
+## 3D Models (for the 3D Player)
+
+- Character Models: The 3D player is represented with a detailed but sleek model. The character’s design emphasizes utility, with a lightweight, futuristic suit featuring glowing accents that indicate stealth modes and health status.
+- Guards and NPCs: Enemy NPCs, such as guards, are designed with streamlined armor that blends into the facility’s design, making them appear as extensions of the building's security. Their movement is precise, and they feature visors or helmets with small glowing indicators for easy identification.
+- Facility Objects: Doors, consoles, and terminals have a smooth, functional look. These objects include slight glows or animations when interacted with, providing visual feedback without disrupting the aesthetic.
+
+## 2D Sprites (for the 2D Player)
+
+- Player Interface: The 2D player’s screen has a simplified representation of the facility, showing layouts, doors, and systems as clean lines and icons. Minimalist icons are used for various controls, like doors, cameras, and communications.
+- Hacking Elements: Puzzles and hacking interfaces resemble circuit boards and abstract puzzles. They are designed with clean lines, connecting points, and glowing elements that react to player inputs, visually indicating successful hacks or locked systems.
+- NPC Icons: Enemy NPCs are represented by simple icons on the 2D map that show direction and movement. When intercepted, communication lines are represented by small flashing icons to keep the 2D player aware of enemy positions.
 
 # Environments
 <br>
 
-## 3D Player's Environment
+Each environment in the facility is carefully crafted to enhance the feeling of a high-security, futuristic building. Spaces are clean, with minimal decoration, creating a stark, high-tech atmosphere.
 
-The 3D environment represents the physical world that the player navigates, filled with security obstacles and modernist architectural design. Each level is set within a corporate building, with zones that might include high-security hallways, server rooms, and control centers. The setting emphasizes function over form, with rooms and hallways free from unnecessary decoration.
+## Facility Areas
 
-### Key Environmental Features:
-- Secure Doors: Mechanized, with sleek panels and subtle light indicators showing locked/unlocked states.
-- Surveillance: Mounted cameras that track the player’s movements, with red or blue indicator lights signaling active status.
-- Hiding Spots: Limited nooks, like darkened alcoves or storage areas, where the player can evade detection.
-- Spatial Layout: Designed to guide the player through specific stealth and puzzle areas, with minimal clutter. A clear path is often visible, but obstacles, like guards or locked doors, require strategic maneuvering.
-
-## 2D Player's Environment
-
-The 2D environment mimics a network system interface, representing a schematic layout of the corporate building’s digital infrastructure. It’s a segmented, maze-like structure where each node or pathway signifies data connections or access points that the player must navigate.
-
-### Key Environmental Features:
-
-- Firewalls: Act as barriers that the player must bypass or disable through puzzles. These appear as bold, pulsing red walls or lines.
-- Nodes: Represent various system points, like cameras, doors, or alarm systems. Each node has a unique color or shape to differentiate its function.
-- Data Pathways: Neon lines connecting nodes, representing routes the player can access. Some pathways are temporarily disabled or require unlocking.
-- Visual Cues: Icons or color changes signify interactable elements. For instance, unlocked nodes glow brightly, while locked nodes are dimmed or grayed out.
+- Corporate Offices: These are well-lit, spacious rooms with large glass windows and minimalist furniture. The offices have a cold, impersonal feel, with workstations organized in precise rows and little personal decoration. Touch panels and holographic displays are used throughout for navigation and access.
+- Server Rooms: Darker, cooler environments filled with rows of LED-lit server racks. These rooms are intended to feel dense and maze-like, with narrow pathways between server banks and subtle environmental sounds (like humming servers) to build tension.
+- Security Halls and Corridors: Narrower, dimly lit areas with minimal features. The walls are polished metal with reflective surfaces, allowing players to see subtle glints of movement or light. Small ceiling cameras and motion sensors subtly alert the player to monitored areas.
+- Control Rooms: High-tech rooms with multiple display panels and large touchscreens, showing live data from around the facility. The walls have sleek control consoles with glow indicators, and these rooms serve as hubs for the 2D player’s interface.
+- Maintenance Tunnels: These tight, confined spaces offer the 3D player hidden pathways to avoid detection. With exposed metal pipes, faint lighting, and grated floors, these tunnels feel starkly utilitarian, emphasizing the futuristic but unembellished design.
 
 # Visual Effects
 
-## 3D World Effects:
+Visual effects in the game are designed to enhance the gameplay without overwhelming the futuristic aesthetic. Effects are kept subtle, reinforcing the polished, controlled nature of the environment.
 
-- Lighting Effects: Soft ambient lighting with occasional light flares near screens or security doors. Reflective surfaces cast subtle light reflections, enhancing realism.
-- Surveillance Indicators: When security cameras detect movement, subtle red beams or flashing lights appear, visually signaling alert status.
-- Hacking Animations: When the 3D player interacts with control panels, short animations (like digital code sequences or brief screen flickers) show successful or failed attempts.
+## Core Effects
 
-## 2D World Effects:
-- Firewall Effects: When the 2D player bypasses a firewall, glitch-like animations briefly appear, showing the wall breaking down digitally.
-- Node Activation: Nodes pulse or emit a glow when activated. If a node controls cameras or other systems, lines connecting to those elements light up, representing established control.
-- Warning Alerts: When the 3D player is in danger (e.g., near a guard), the 2D screen may display flashing indicators or a visual overlay alerting the 2D player to potential threats.
+- Light Glows and Reflections: Interactive elements, like control panels and doors, emit a soft glow to guide players. Reflective surfaces are carefully used to create depth and emphasize the sterile environment.
+- Hacking Effects: When the 2D player initiates a hack, the affected systems show a brief visual effect, like a wave or ripple, to indicate successful interaction. Puzzle-solving screens have animations that feel like smooth electrical pulses.
+- Security Systems: Firewalls, if triggered, create a visual barrier on the 2D screen, simulating interference with a digital “glitch” effect. Camera feeds may temporarily scramble if the security system detects a hack attempt, adding to the tension.
+- Stealth Indicators: For the 3D player, visual indicators appear when they enter a guard’s line of sight or step into a monitored area. These indicators are subtle, like a slight glow around the screen’s edge, to warn players without breaking immersion.
+- Environmental Sounds: Although not a visual effect, environmental audio cues (like the hum of machinery or subtle alarms) are integrated to complement the visual design, enhancing immersion in the futuristic environment.
