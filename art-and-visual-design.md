@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2024-11-05T01:04:52.375Z
+date: 2024-11-05T01:05:23.350Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -21,6 +21,7 @@ The game’s art style embraces a clean, futuristic aesthetic with smooth surfac
 - Polished Surfaces: Most surfaces are smooth, reflective, and pristine, giving the setting a clinical, futuristic feel.
 
 # 3D Models or 2D Sprites
+<br>
 
 Since the game involves both 2D and 3D modes, the art direction for each player’s perspective will vary slightly to fit their respective views while maintaining consistency in the overall design.
 
@@ -50,6 +51,7 @@ Each environment in the facility is carefully crafted to enhance the feeling of 
 - Maintenance Tunnels: These tight, confined spaces offer the 3D player hidden pathways to avoid detection. With exposed metal pipes, faint lighting, and grated floors, these tunnels feel starkly utilitarian, emphasizing the futuristic but unembellished design.
 
 # Visual Effects
+<br>
 
 Visual effects in the game are designed to enhance the gameplay without overwhelming the futuristic aesthetic. Effects are kept subtle, reinforcing the polished, controlled nature of the environment.
 
