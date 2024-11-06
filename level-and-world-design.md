@@ -12,6 +12,8 @@ dateCreated: 2024-10-24T13:19:48.859Z
 
 Each level presents distinct challenges that require close cooperation between the 2D and 3D players, introducing new mechanics, tools, and environmental obstacles as players progress. The levels are structured to gradually increase in difficulty, complexity, and narrative tension.
 
+### Prototype
+
 - Level 1: Serves as an introductory level where players become familiar with basic mechanics, such as movement, communication, and simple obstacle navigation. The 3D player learns stealth basics and physical interaction with doors or switches, while the 2D player experiments with suggesting directions and initial hacking attempts.
 
 - Level 2: Introduces more interactive systems, like security cameras and basic firewalls, to help players understand the importance of timing and communication. Both players encounter their first puzzle, involving a combination of button presses and camera coordination to navigate a controlled area.
