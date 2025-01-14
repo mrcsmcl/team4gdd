@@ -2,7 +2,7 @@
 title: GitHub Organization
 description: 
 published: 1
-date: 2025-01-14T15:36:59.123Z
+date: 2025-01-14T15:37:55.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T15:36:59.123Z
@@ -74,6 +74,5 @@ Deleting branches after merging is recommended for the following reasons:
 - **Commit History as a Record**: If old code needs to be revisited, the full history is available in the repository.
 
 <br>
---
 
 By adopting this workflow, we achieve several benefits: contributions are organized, as everyone knows where to begin their work and how to integrate it back into the project; conflicts are reduced through a clear separation of concerns, which minimizes merge issues; releases become more efficient, as stable versions can be created from the `Main/Master` branch without interrupting ongoing development; and collaboration is improved, thanks to a well-defined structure that enables team members to work independently without confusion.
