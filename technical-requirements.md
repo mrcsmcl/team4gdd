@@ -2,7 +2,7 @@
 title: Technical Requirements
 description: 
 published: 1
-date: 2024-10-30T19:22:46.513Z
+date: 2025-01-14T23:59:37.018Z
 tags: technical requirements
 editor: markdown
 dateCreated: 2024-10-24T13:33:21.311Z
@@ -10,11 +10,29 @@ dateCreated: 2024-10-24T13:33:21.311Z
 
 # Game Engine
 
-> Unreal Engine 5.3.2
+> Unreal Engine 5.5
 {.is-info}
 
+# Plugins
+
+### Tab {.tabset}
+
+#### Operating System Simulator Plugin
+
+> [FAB](https://www.fab.com/listings/c2c763aa-7dfa-4a19-b4ff-28d4b3131e6e)
+{.is-info}
+
+
+> [Documentation](https://docs.yetitechstudios.com/docs/)
+{.is-info}
+
+> [Developer](https://yetitechstudios.com/)
+{.is-info}
+
+<!-- 
 # Hardware Requirements
 
 # Development Tools
 
 # Online Integration
+-->
