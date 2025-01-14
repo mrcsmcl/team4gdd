@@ -2,13 +2,12 @@
 title: Unreal Engine File Organization
 description: 
 published: 1
-date: 2025-01-14T15:38:44.063Z
+date: 2025-01-14T15:39:35.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T15:33:13.056Z
 ---
 
-# Unreal Engine File Organization
 
 To ensure a smooth workflow and minimize confusion when multiple team members are working in Unreal Engine, it is essential to implement a structured and well-documented file organization system. This organization will make it easier for everyone to locate and save assets while reducing the likelihood of conflicts, redundant work, and misplaced files. Below is a detailed explanation of the proposed system:
 
