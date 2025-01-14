@@ -2,7 +2,7 @@
 title: Unreal Engine File Organization
 description: 
 published: 1
-date: 2025-01-14T15:39:35.379Z
+date: 2025-01-14T15:39:54.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T15:33:13.056Z
@@ -11,7 +11,7 @@ dateCreated: 2025-01-14T15:33:13.056Z
 
 To ensure a smooth workflow and minimize confusion when multiple team members are working in Unreal Engine, it is essential to implement a structured and well-documented file organization system. This organization will make it easier for everyone to locate and save assets while reducing the likelihood of conflicts, redundant work, and misplaced files. Below is a detailed explanation of the proposed system:
 
-## 1. Root Folder Structure
+# 1. Root Folder Structure
 
 All files within the `Content` folder will be categorized into clearly defined root folders based on their type or purpose. Each root folder will contain subfolders for further classification. The structure is as follows:
 
@@ -51,7 +51,7 @@ All files within the `Content` folder will be categorized into clearly defined r
 
 <br>
 
-## 2. Naming Conventions
+# 2. Naming Conventions
 
 To maintain clarity and consistency, all files should adhere to strict naming conventions. Examples include:
 
@@ -61,7 +61,7 @@ To maintain clarity and consistency, all files should adhere to strict naming co
 
 <br>
 
-## 3. Personal Working Folders
+# 3. Personal Working Folders
 
 <br>
 
@@ -69,6 +69,6 @@ Team members actively working on specific tasks should create personal folders u
 
 <br>
 
-## 4. Regular Cleanup and Maintenance
+# 4. Regular Cleanup and Maintenance
 
 At the conclusion of each team meeting, we will collectively review the file organization. This review will ensure that assets are correctly placed, unused or temporary files are removed, and the overall structure remains clean and functional.
