@@ -2,7 +2,7 @@
 title: Unreal Engine File Organization
 description: 
 published: 1
-date: 2025-01-14T15:40:16.365Z
+date: 2025-01-14T15:43:13.600Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T15:33:13.056Z
@@ -54,11 +54,32 @@ All files within the `Content` folder will be categorized into clearly defined r
 
 ## 2. Naming Conventions
 
-To maintain clarity and consistency, all files should adhere to strict naming conventions. Examples include:
+Maintaining clear and consistent naming conventions is essential for effective project organization and collaboration. By following these conventions, team members can easily understand the content of a file just by looking at its name, which reduces confusion and enhances workflow efficiency. Below are more detailed examples for each type of asset:
 
-- **Blueprints**: `BP_Character_Player`, `BP_Enemy_AI`.
-- **Textures**: `T_Wood_01`, `T_Metal_02`.
-- **Static Meshes**: `SM_Tree_01`, `SM_Building_02`.
+<br>
+
+### **Blueprints**:  
+Blueprint naming should reflect the role or functionality of the object or system being designed. For example:
+- `BP_Character_Player`: This indicates a Blueprint for a playable character within the game.
+- `BP_Enemy_AI`: Represents a Blueprint for non-playable characters (NPCs) with artificial intelligence.
+
+<br>
+
+### **Textures**:  
+Textures are often categorized based on their use in the game, such as environment, characters, or materials. Examples:
+- `T_Wood_01`: This texture represents a wooden material. It includes a prefix `T_` indicating that it is a texture, followed by the material type (`Wood`) and a number (`01`) to differentiate multiple variations or versions.
+- `T_Metal_02`: Similarly, this texture is a metallic material, with the numbering allowing for multiple versions or specific variations to be easily distinguished.
+
+<br>
+
+### **Static Meshes**:  
+Static meshes are 3D models that do not animate. Naming conventions for these assets include:
+- `SM_Tree_01`: Represents a tree static mesh, where `SM_` stands for Static Mesh, followed by the asset type (`Tree`) and a version number (`01`).
+- `SM_Building_02`: A building model, where `SM_` denotes a static mesh, `Building` indicates the type, and `02` is the version identifier for different models or variations of buildings.
+
+<br>
+
+This standardization allows quick identification of specific static meshes within the project's assets, which is crucial for consistent use throughout different scenes or levels. By adhering to these naming conventions, team members can easily search, categorize, and maintain assets within the Unreal Engine project, promoting better collaboration and project management.
 
 <br>
 
