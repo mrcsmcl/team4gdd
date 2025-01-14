@@ -2,7 +2,7 @@
 title: Technical Requirements
 description: 
 published: 1
-date: 2025-01-14T23:59:37.018Z
+date: 2025-01-14T23:59:55.474Z
 tags: technical requirements
 editor: markdown
 dateCreated: 2024-10-24T13:33:21.311Z
@@ -14,6 +14,7 @@ dateCreated: 2024-10-24T13:33:21.311Z
 {.is-info}
 
 # Plugins
+<br>
 
 ### Tab {.tabset}
 
