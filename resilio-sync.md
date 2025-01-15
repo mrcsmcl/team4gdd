@@ -2,7 +2,7 @@
 title: Resilio Sync Info
 description: 
 published: 1
-date: 2025-01-15T21:36:29.897Z
+date: 2025-01-15T22:56:32.427Z
 tags: resilio, share, sync
 editor: markdown
 dateCreated: 2025-01-15T21:21:48.000Z
@@ -34,7 +34,7 @@ Below is a list of folders that will be synchronized using Resilio Sync, with a 
 
 ## How to Use Resilio Sync
 
-1. **Install Resilio Sync**: Download and install Resilio Sync from [resilio.com](https://www.resilio.com/).
+1. **Install Resilio Sync**: Download and install Resilio Sync from [https://www.resilio.com/sync/](https://www.resilio.com/).
 2. **Add Folders**: Use the provided sync codes to add the folders to your Resilio Sync client.
 3. **Synchronize**: Once added, the folders will automatically sync to your device, ensuring you always have the latest files.
 4. **Organize and Collaborate**: Use the appropriate folder for each type of file to maintain organization.
