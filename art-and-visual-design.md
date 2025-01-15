@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2025-01-15T21:50:04.504Z
+date: 2025-01-15T21:51:44.974Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -80,6 +80,7 @@ The art style for the game combines futuristic realism with a narrative-driven a
        - Personal desk items like coffee mugs and photos.  
      - **Lighting:** Cooler tones, with task lighting at individual workstations.  
 
+<div style="text-align: center;">
 <table>
   <tr>
     <td><a href="https://imgur.com/a/RmEYt5i"><img src="https://i.imgur.com/u8rKdEy.png" alt="NTHQ" title="NTHQ" width="500"></a></td>
@@ -101,6 +102,7 @@ The art style for the game combines futuristic realism with a narrative-driven a
     <td colspan="2" style="text-align: center;"><a href="https://imgur.com/a/swXueQE"><img src="https://i.imgur.com/syZV7jA.jpeg" alt="Lobby" title="NTHQ" width="1000"></a></td>
   </tr>
 </table>
+</div>
 
 ---
 
