@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2025-01-15T12:36:15.546Z
+date: 2025-01-15T12:54:39.968Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -36,6 +36,10 @@ The art style for the game combines futuristic realism with a narrative-driven a
      - Subtle technological upgrades, such as a smart home control panel or a robotic vacuum.  
    - **Gameplay Design:**  
      This area introduces players to the basics of movement and stealth in a low-stakes environment.
+     
+[![Suburban House](https://i.imgur.com/jIXBg76.jpeg "Suburban House")](https://imgur.com/a/swXueQE)
+
+---
 
 2. **Café:**  
    - **Design:**  
@@ -46,6 +50,10 @@ The art style for the game combines futuristic realism with a narrative-driven a
    - **Lighting:**  
      Daylight streaming through windows, with warmer tones from hanging lights.  
 
+[![Café](https://i.imgur.com/y6uvAAk.jpeg "Café")](https://imgur.com/a/swXueQE)
+
+---
+
 3. **Warehouse/Depot:**  
    - **Design:**  
      An industrial space filled with metal shelves, crates, forklifts, and dimly lit corridors. The environment feels cold and utilitarian.  
@@ -55,6 +63,10 @@ The art style for the game combines futuristic realism with a narrative-driven a
      - Security checkpoints with ID scanners.  
    - **Lighting:**  
      Overhead fluorescent lights cast harsh shadows, creating a tense atmosphere.  
+
+[![Warehouse](https://i.imgur.com/szTn5gp.jpeg "Warehouse")](https://imgur.com/a/swXueQE)
+
+---
 
 4. **NeoTech Headquarters:**  
    - **Lobby:**  
@@ -67,6 +79,11 @@ The art style for the game combines futuristic realism with a narrative-driven a
        - Holographic projectors and digital whiteboards.  
        - Personal desk items like coffee mugs and photos.  
      - **Lighting:** Cooler tones, with task lighting at individual workstations.  
+     
+[![Lobby](https://i.imgur.com/syZV7jA.jpeg "Lobby")](https://imgur.com/a/swXueQE)
+
+---
+
    - **Security Rooms:**  
      - **Design:** Dark and cramped, with wall-mounted monitors displaying live security feeds.  
      - **Key Features:**  
