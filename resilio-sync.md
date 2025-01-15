@@ -2,7 +2,7 @@
 title: Resilio Sync Info
 description: 
 published: 1
-date: 2025-01-15T21:27:11.882Z
+date: 2025-01-15T21:27:45.146Z
 tags: resilio, share, sync
 editor: markdown
 dateCreated: 2025-01-15T21:21:48.000Z
@@ -20,14 +20,14 @@ Below is a list of folders that will be synchronized using Resilio Sync, with a 
 
 <br>
 
-| **Folder Name**       | **Purpose**                                                                                       | **Sync Code**  |
+| **Folder Name**       | **Purpose**                                                                                       | **Sync Access**  |
 |-----------------------|---------------------------------------------------------------------------------------------------|----------------|
-| **Playground**        | A sandbox Unreal Engine project to freely test assets, experiment, and try ideas without worrying about breaking anything. | [SYNC CODE](https://link.resilio.com/#f=Playground&sz=0&t=2&s=6UFJX43OSH7E2GWTJKF4PN6QWNEELWC77SAKFAHHT77H3QHJPD6A&i=CLYLUTC3YP33M5HTJGQA4TNXPLJBCMFS6&v=3.0&a=3)  |
-| **Videos**            | A repository for recorded gameplay, tutorials, and other video materials related to the project.  | [SYNC CODE](https://link.resilio.com/#f=Videos&sz=0&t=2&s=4JACBMUHZDFMOO4QBPO5R24IBIZSQPWVLEMWQKW3TKDG24FSLIZA&i=C5JB7TA3EWBW5AGAXRGSUONOUNAQROBXA&v=3.0&a=3)  |
-| **Images**            | Contains reference images, concept art, and edited screenshots for use in development and documentation. | [SYNC CODE](https://link.resilio.com/#f=Images&sz=0&t=2&s=NT4E3DTF77OHDGDQWCENCGWY6XATHTNBSNEEQXDMDUYADFJCUIOQ&i=CLUQ472U7SULUOXMMF2HIIX2TVYSL4EUV&v=3.0&a=3)  |
-| **Edits**             | Stores image and video edits, including promotional materials, thumbnails, or in-game media.      | [SYNC CODE](https://link.resilio.com/#f=Edits&sz=0&t=2&s=OK5KMKYV2MMNNYEXJSVZ5MRRVZKCQEOIRGA6FSEPH7QJKY2ON4PA&i=CRIILE4FXY2HKH24KU4HUUHUQVTVWJE37&v=3.0&a=3)  |
-| **Reference**         | A collection of useful reference materials, such as guides, tutorials, and design inspiration.    | [SYNC CODE](https://link.resilio.com/#f=Reference&sz=0&t=2&s=NZO3CLTHQALWXSPEH2QFP4UCM2VPPYFDTPXGLL6OYND4U5VHEZZQ&i=CREMO7XFQDOM76SBLAVVNQKHDTM3ZLD45&v=3.0&a=3)  |
-| **Tools**             | Contains development tools, scripts, or utilities that assist in game creation.                   | [SYNC CODE](https://link.resilio.com/#f=Tools&sz=0&t=2&s=MYY7CHDECLIW6R7RSSQSDSWSUO6RJNSRR6W3WHDK7PCG5STBLRPQ&i=CTW7NKLPSTKAVK4DGWOIKVSBQQKQQG76Y&v=3.0&a=3)  |
+| **Playground**        | A sandbox Unreal Engine project to freely test assets, experiment, and try ideas without worrying about breaking anything. | [SYNC](https://link.resilio.com/#f=Playground&sz=0&t=2&s=6UFJX43OSH7E2GWTJKF4PN6QWNEELWC77SAKFAHHT77H3QHJPD6A&i=CLYLUTC3YP33M5HTJGQA4TNXPLJBCMFS6&v=3.0&a=3)  |
+| **Videos**            | A repository for recorded gameplay, tutorials, and other video materials related to the project.  | [SYNC](https://link.resilio.com/#f=Videos&sz=0&t=2&s=4JACBMUHZDFMOO4QBPO5R24IBIZSQPWVLEMWQKW3TKDG24FSLIZA&i=C5JB7TA3EWBW5AGAXRGSUONOUNAQROBXA&v=3.0&a=3)  |
+| **Images**            | Contains reference images, concept art, and edited screenshots for use in development and documentation. | [SYNC](https://link.resilio.com/#f=Images&sz=0&t=2&s=NT4E3DTF77OHDGDQWCENCGWY6XATHTNBSNEEQXDMDUYADFJCUIOQ&i=CLUQ472U7SULUOXMMF2HIIX2TVYSL4EUV&v=3.0&a=3)  |
+| **Edits**             | Stores image and video edits, including promotional materials, thumbnails, or in-game media.      | [SYNC](https://link.resilio.com/#f=Edits&sz=0&t=2&s=OK5KMKYV2MMNNYEXJSVZ5MRRVZKCQEOIRGA6FSEPH7QJKY2ON4PA&i=CRIILE4FXY2HKH24KU4HUUHUQVTVWJE37&v=3.0&a=3)  |
+| **Reference**         | A collection of useful reference materials, such as guides, tutorials, and design inspiration.    | [SYNC](https://link.resilio.com/#f=Reference&sz=0&t=2&s=NZO3CLTHQALWXSPEH2QFP4UCM2VPPYFDTPXGLL6OYND4U5VHEZZQ&i=CREMO7XFQDOM76SBLAVVNQKHDTM3ZLD45&v=3.0&a=3)  |
+| **Tools**             | Contains development tools, scripts, or utilities that assist in game creation.                   | [SYNC](https://link.resilio.com/#f=Tools&sz=0&t=2&s=MYY7CHDECLIW6R7RSSQSDSWSUO6RJNSRR6W3WHDK7PCG5STBLRPQ&i=CTW7NKLPSTKAVK4DGWOIKVSBQQKQQG76Y&v=3.0&a=3)  |
 
 
 ## How to Use Resilio Sync
