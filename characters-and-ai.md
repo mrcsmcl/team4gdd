@@ -2,7 +2,7 @@
 title: Characters and AI
 description: 
 published: 1
-date: 2025-01-15T13:12:09.196Z
+date: 2025-01-15T13:13:55.874Z
 tags: ai, characters
 editor: markdown
 dateCreated: 2024-10-24T13:21:29.347Z
@@ -10,7 +10,7 @@ dateCreated: 2024-10-24T13:21:29.347Z
 
 # Characters and AI Design
 
-This section delves into the physical and mechanical attributes of the game's characters, as well as the design of NPCs and their AI behaviors.
+This section delves into the mechanical attributes of the game's characters, as well as the design of NPCs and their AI behaviors.
 
 ---
 
