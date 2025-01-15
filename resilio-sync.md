@@ -2,7 +2,7 @@
 title: Resilio Sync Info
 description: 
 published: 1
-date: 2025-01-15T21:27:45.146Z
+date: 2025-01-15T21:28:20.622Z
 tags: resilio, share, sync
 editor: markdown
 dateCreated: 2025-01-15T21:21:48.000Z
@@ -10,7 +10,9 @@ dateCreated: 2025-01-15T21:21:48.000Z
 
 # Resilio Sync Setup for Game Development Collaboration
 
-## What is Resilio Sync?
+<br>
+
+### What is Resilio Sync?
 
 Resilio Sync is a peer-to-peer file synchronization tool that facilitates fast, secure, and reliable sharing of files across multiple devices. For this game development project, Resilio Sync will be used to share important resources like recorded videos, edited images, and other media, ensuring that all team members can access and contribute to the shared files effortlessly.
 
