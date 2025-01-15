@@ -2,7 +2,7 @@
 title: Project Overview
 description: 
 published: 1
-date: 2025-01-15T12:21:42.942Z
+date: 2025-01-15T14:28:45.276Z
 tags: overview
 editor: markdown
 dateCreated: 2024-10-24T13:03:37.927Z
@@ -59,7 +59,7 @@ Minimalistic, inspired by operating systems like classic Linux and Windows. Sobe
 
 In this cooperative game  two players must work together to complete high-risk missions. The player in the 3D world must navigate stealthily through futuristic environments, avoiding enemies and overcoming physical barriers. The player in the 2D system provides remote support by unlocking doors, disabling cameras, and supplying crucial information. Communication and synergy between the two players are critical for success.
 
-The narrative follows two main characters, Vini and Leo, on missions against corrupt corporations and authoritarian systems. Each mission presents unique challenges, including puzzles requiring precise synchronization between both players.
+The narrative follows two main characters, Vinny and Leo, on missions against corrupt corporations and authoritarian systems. Each mission presents unique challenges, including puzzles requiring precise synchronization between both players.
 
 # Key Features
 
