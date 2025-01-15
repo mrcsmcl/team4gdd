@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2024-11-05T01:05:23.350Z
+date: 2025-01-15T12:36:15.546Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -11,54 +11,129 @@ dateCreated: 2024-10-24T13:31:37.454Z
 # Art Style
 <br>
 
-The game’s art style embraces a clean, futuristic aesthetic with smooth surfaces, sharp lines, and a streamlined design. This world is filled with polished metals, soft glows, and minimalist architecture that reflects a high-tech facility built for function and security. The colors lean toward cool tones, with a palette of whites, grays, and blues, accented by subtle, strategically placed neon lights. The environments and assets are designed to feel sterile and efficient, conveying the sense of a meticulously controlled and organized space.
+The art style for the game combines futuristic realism with a narrative-driven aesthetic. Each environment reflects the setting's purpose and tone, ensuring the visual design aligns with the story's progression and gameplay elements. The game’s art style focuses on creating immersive, realistic environments while maintaining a minimalistic and sleek look for interfaces and interactive elements.
 
-## Key Features
+## Environment Design
 
-- Minimalism: Focused on simplicity and function, with very little clutter or unnecessary detailing.
-- Cool Color Palette: Whites, silvers, and blues dominate, with occasional warm accents for emphasis on important objects or UI elements.
-- Glowing Elements: Small lights and panels glow gently, indicating interactive or essential elements. These effects are kept subtle to maintain a sleek look.
-- Polished Surfaces: Most surfaces are smooth, reflective, and pristine, giving the setting a clinical, futuristic feel.
+### General Aesthetic
+- **Realistic Futurism:**  
+  Environments should feel grounded in the near future (5-10 years ahead). Architecture and objects will feature sleek lines, advanced materials, and subtle technological advancements while maintaining a sense of familiarity.  
+  A focus on clean, polished surfaces, with occasional imperfections to avoid sterility.  
 
-# 3D Models or 2D Sprites
-<br>
+- **Lighting:**  
+  Lighting will play a crucial role in setting the mood. Dim, soft lighting will dominate tense areas, with brighter lights highlighting important pathways or interactive objects. Neon accents and holographic displays will enhance the futuristic feel.  
 
-Since the game involves both 2D and 3D modes, the art direction for each player’s perspective will vary slightly to fit their respective views while maintaining consistency in the overall design.
 
-## 3D Models (for the 3D Player)
+---
 
-- Character Models: The 3D player is represented with a detailed but sleek model. The character’s design emphasizes utility, with a lightweight, futuristic suit featuring glowing accents that indicate stealth modes and health status.
-- Guards and NPCs: Enemy NPCs, such as guards, are designed with streamlined armor that blends into the facility’s design, making them appear as extensions of the building's security. Their movement is precise, and they feature visors or helmets with small glowing indicators for easy identification.
-- Facility Objects: Doors, consoles, and terminals have a smooth, functional look. These objects include slight glows or animations when interacted with, providing visual feedback without disrupting the aesthetic.
+### Environments by Scenario
 
-## 2D Sprites (for the 2D Player)
+1. **Suburban House (Starting Area):**  
+   - **Design:**  
+     A modest, middle-class suburban home with modern but not overly futuristic furniture. Warm lighting and earthy tones create a sense of normalcy before the mission begins.  
+   - **Key Features:**  
+     - Family photographs, bookshelves, and plants to add realism.  
+     - Subtle technological upgrades, such as a smart home control panel or a robotic vacuum.  
+   - **Gameplay Design:**  
+     This area introduces players to the basics of movement and stealth in a low-stakes environment.
 
-- Player Interface: The 2D player’s screen has a simplified representation of the facility, showing layouts, doors, and systems as clean lines and icons. Minimalist icons are used for various controls, like doors, cameras, and communications.
-- Hacking Elements: Puzzles and hacking interfaces resemble circuit boards and abstract puzzles. They are designed with clean lines, connecting points, and glowing elements that react to player inputs, visually indicating successful hacks or locked systems.
-- NPC Icons: Enemy NPCs are represented by simple icons on the 2D map that show direction and movement. When intercepted, communication lines are represented by small flashing icons to keep the 2D player aware of enemy positions.
+2. **Café:**  
+   - **Design:**  
+     A trendy urban café with a mix of sleek modern decor and rustic charm. Glass windows provide a view of a bustling street.  
+   - **Key Features:**  
+     - Interactive objects like laptops, cash registers, and coffee machines.  
+     - Security cameras blend into the environment.  
+   - **Lighting:**  
+     Daylight streaming through windows, with warmer tones from hanging lights.  
 
-# Environments
-<br>
+3. **Warehouse/Depot:**  
+   - **Design:**  
+     An industrial space filled with metal shelves, crates, forklifts, and dimly lit corridors. The environment feels cold and utilitarian.  
+   - **Key Features:**  
+     - Large storage containers with numbered labels.  
+     - Rust and wear on metallic surfaces for added realism.  
+     - Security checkpoints with ID scanners.  
+   - **Lighting:**  
+     Overhead fluorescent lights cast harsh shadows, creating a tense atmosphere.  
 
-Each environment in the facility is carefully crafted to enhance the feeling of a high-security, futuristic building. Spaces are clean, with minimal decoration, creating a stark, high-tech atmosphere.
+4. **NeoTech Headquarters:**  
+   - **Lobby:**  
+     - **Design:** A grand, sterile area with white marble floors, glass walls, and a holographic reception desk.  
+     - **Key Features:** Interactive holographic directory and security desk.  
+     - **Lighting:** Bright, with glowing blue holograms and accent lights.  
+   - **Corporate Offices:**  
+     - **Design:** Open spaces with ergonomic furniture, glass partitions, and sleek desks with integrated touchscreens.  
+     - **Key Features:**  
+       - Holographic projectors and digital whiteboards.  
+       - Personal desk items like coffee mugs and photos.  
+     - **Lighting:** Cooler tones, with task lighting at individual workstations.  
+   - **Security Rooms:**  
+     - **Design:** Dark and cramped, with wall-mounted monitors displaying live security feeds.  
+     - **Key Features:**  
+       - Control panels with glowing buttons and switches.  
+       - Locked weapon racks for emergency response.  
+     - **Lighting:** Minimal, with red accents indicating high alert.  
+   - **Maintenance Tunnels:**  
+     - **Design:** Narrow, metallic corridors with exposed pipes and cables.  
+     - **Key Features:**  
+       - Ventilation shafts for stealth routes.  
+       - Flickering lights and occasional steam vents for added tension.  
+     - **Lighting:** Dim, with occasional emergency lights.  
 
-## Facility Areas
+---
 
-- Corporate Offices: These are well-lit, spacious rooms with large glass windows and minimalist furniture. The offices have a cold, impersonal feel, with workstations organized in precise rows and little personal decoration. Touch panels and holographic displays are used throughout for navigation and access.
-- Server Rooms: Darker, cooler environments filled with rows of LED-lit server racks. These rooms are intended to feel dense and maze-like, with narrow pathways between server banks and subtle environmental sounds (like humming servers) to build tension.
-- Security Halls and Corridors: Narrower, dimly lit areas with minimal features. The walls are polished metal with reflective surfaces, allowing players to see subtle glints of movement or light. Small ceiling cameras and motion sensors subtly alert the player to monitored areas.
-- Control Rooms: High-tech rooms with multiple display panels and large touchscreens, showing live data from around the facility. The walls have sleek control consoles with glow indicators, and these rooms serve as hubs for the 2D player’s interface.
-- Maintenance Tunnels: These tight, confined spaces offer the 3D player hidden pathways to avoid detection. With exposed metal pipes, faint lighting, and grated floors, these tunnels feel starkly utilitarian, emphasizing the futuristic but unembellished design.
+## Visual Effects
 
-# Visual Effects
-<br>
+- **Dynamic Lighting:**  
+  Real-time lighting changes based on player actions, such as opening doors or triggering alarms.  
+  Interactive lights guide players subtly through the environment.  
 
-Visual effects in the game are designed to enhance the gameplay without overwhelming the futuristic aesthetic. Effects are kept subtle, reinforcing the polished, controlled nature of the environment.
+- **Particle Effects:**  
+  - Subtle dust motes in abandoned or unused areas.  
+  - Sparks from malfunctioning devices or short circuits.  
+  - Steam from pipes in industrial or maintenance areas.  
 
-## Core Effects
+- **UI Effects (2D):**  
+  - **Hacker Interface:** Minimalistic animations for loading bars, terminal commands, and map interactions.  
+  - **Alerts:** Subtle flashing or color changes for new objectives or triggered alarms.  
 
-- Light Glows and Reflections: Interactive elements, like control panels and doors, emit a soft glow to guide players. Reflective surfaces are carefully used to create depth and emphasize the sterile environment.
-- Hacking Effects: When the 2D player initiates a hack, the affected systems show a brief visual effect, like a wave or ripple, to indicate successful interaction. Puzzle-solving screens have animations that feel like smooth electrical pulses.
-- Security Systems: Firewalls, if triggered, create a visual barrier on the 2D screen, simulating interference with a digital “glitch” effect. Camera feeds may temporarily scramble if the security system detects a hack attempt, adding to the tension.
-- Stealth Indicators: For the 3D player, visual indicators appear when they enter a guard’s line of sight or step into a monitored area. These indicators are subtle, like a slight glow around the screen’s edge, to warn players without breaking immersion.
-- Environmental Sounds: Although not a visual effect, environmental audio cues (like the hum of machinery or subtle alarms) are integrated to complement the visual design, enhancing immersion in the futuristic environment.
+---
+
+## 3D Models
+
+- **Characters:**  
+  - Realistic humanoid models for guards, featuring advanced uniforms and helmets.  
+  - Smooth animations for patrols, searching, and combat behavior.  
+
+- **Props and Interactive Objects:**  
+  - **Furniture:** Chairs, desks, and storage units that fit the futuristic setting.  
+  - **Electronics:** Computers, holographic displays, and security equipment with interactive panels.  
+  - **Decor:** Potted plants, artwork, and branded Neotech objects to add world-building details.  
+
+---
+
+## Icons and UI Elements
+
+- **Minimalistic Icons:**  
+  - Clean and easily recognizable symbols for actions like hacking, unlocking, or interacting.  
+  - Use a monochromatic color scheme, with highlights for active states.  
+
+- **Map Design:**  
+  - Top-down maps with clearly marked paths, cameras, and points of interest.  
+  - Use glowing lines or overlays to indicate real-time updates provided by the Hacker.  
+
+---
+
+## Area-Specific Features
+
+- **Corporate Facilities:**  
+  - Glass partitions with digital interfaces for control.  
+  - Interactive conference rooms with holographic displays.  
+
+- **Security Checkpoints:**  
+  - Scanners that emit realistic sound effects and subtle glow when in use.  
+
+- **Maintenance Areas:**  
+  - Grimy textures, with functional props like toolboxes and repair stations.  
+
+---
