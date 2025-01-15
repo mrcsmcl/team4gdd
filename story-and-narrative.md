@@ -2,7 +2,7 @@
 title: Story and Narrative
 description: 
 published: 1
-date: 2025-01-14T23:47:14.134Z
+date: 2025-01-15T14:14:42.746Z
 tags: narrative, story
 editor: markdown
 dateCreated: 2024-10-24T13:18:50.559Z
@@ -57,11 +57,21 @@ Leo is a young and ambitious individual, driven by a desire for freedom and the 
 - **Personality**: Bold, resourceful, impulsive, loyal  
 - **Skills**: Physical infiltration, deception, quick thinking  
 
+**Physical Description**  
+- Athletic build with a lean, muscular frame, reflecting his agility and physical prowess.  
+- Wears practical, dark clothing for stealth, such as a fitted jacket, cargo pants, and lightweight boots.  
+- His face shows determination, with a sharp jawline and eyes that reveal both courage and a hint of recklessness.  
+
 #### **Vinny**  
 Vinny is the brain behind their operations, a tech-savvy mastermind with a knack for hacking and understanding complex systems. Quiet and methodical, he complements Leo's reckless approach with precision and foresight. While Leo focuses on the physical aspect of their heists, Vinny handles the technical details—bypassing security systems, manipulating data, and ensuring their escape routes remain secure.
 
 - **Personality**: Methodical, intelligent, introverted, cautious  
 - **Skills**: Hacking, cybersecurity, technical manipulation  
+
+**Physical Description**  
+- Slender and slightly hunched, reflecting his long hours at a desk.  
+- Casual, minimalist attire, such as a hoodie, jeans, and glasses.  
+- His appearance is less polished than Leo's, with an intellectual aura complemented by a focused, calculating expression.  
 
 #### **Leo’s Parents**  
 Leo’s parents are hardworking but struggling to make ends meet. His father works long hours in a factory, while his mother manages the household, caring for Leo’s younger sister, Clara. They are supportive of Leo’s ambitions, though they worry about the risks he takes. Their simple lives contrast starkly with the wealth and power of the corporate elite.
@@ -70,11 +80,25 @@ Leo’s parents are hardworking but struggling to make ends meet. His father wor
 - **Mother**: Supportive, protective, loving  
 - **Clara**: Younger sister, innocent, curious  
 
+**Physical Description**  
+
+**Father**  
+- Worn features, rough hands, and a tired posture from years of factory work.  
+- Represents the struggle of the working class and the driving force behind Leo’s ambitions.  
+
+**Mother**  
+- Gentle and caring demeanor with a nurturing presence.  
+- Symbolizes the emotional anchor for Leo, reminding him of what he’s fighting for. 
+
 #### **Clara**  
 Clara is Leo’s younger sister, full of curiosity and a desire to understand her brother’s mysterious life. Though she doesn’t fully comprehend the danger Leo puts himself in, she admires his determination and courage. Her innocence and youthful energy contrast with the dark world Leo and Vinny navigate, and her trust in her brother motivates him to strive for a better future.
 
 - **Personality**: Innocent, curious, admiring, trusting  
 - **Skills**: Innocence, hope, emotional resilience
+
+**Physical Description**  
+- Small and bright-eyed, with an expressive face that exudes innocence and curiosity.  
+- Casual, playful attire that reflects her youthful energy.  
 
 # Dialogue and Events
 
