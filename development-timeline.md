@@ -2,7 +2,7 @@
 title: Development Timeline
 description: 
 published: 1
-date: 2025-01-15T14:24:55.316Z
+date: 2025-01-15T14:25:50.597Z
 tags: development timeline
 editor: markdown
 dateCreated: 2024-10-24T13:34:36.549Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-24T13:34:36.549Z
 # Production Plan and Details
 
 This plan accounts for a smaller development team, extending timelines to ensure quality while balancing the team’s workload. It includes detailed phases, tasks, and milestones, spread over a realistic schedule.
+
+---
+
+**Total Duration:** ~24-30 months, with flexibility for iteration and unforeseen challenges.
 
 ---
 
@@ -148,7 +152,3 @@ This plan accounts for a smaller development team, extending timelines to ensure
 6. **Marketing/Community Manager**  
    - **TBD:** Manages promotional campaigns and community engagement.  
 
----
-
-### **Development Timeline**  
-**Total Duration:** ~24-30 months, with flexibility for iteration and unforeseen challenges.
