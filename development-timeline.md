@@ -2,96 +2,153 @@
 title: Development Timeline
 description: 
 published: 1
-date: 2024-10-28T00:31:45.129Z
+date: 2025-01-15T14:24:55.316Z
 tags: development timeline
 editor: markdown
 dateCreated: 2024-10-24T13:34:36.549Z
 ---
 
-# Pre-production (1 month)
+# Production Plan and Details
 
-- Concept development and game design document completion.
-- Initial art direction and visual style exploration.
-- Prototyping key gameplay mechanics (3D and 2D interactions).
+This plan accounts for a smaller development team, extending timelines to ensure quality while balancing the team’s workload. It includes detailed phases, tasks, and milestones, spread over a realistic schedule.
 
-# Production (TBD)
-<br>
+---
 
-## Phase 1 (TBD):
+## **Pre-Production (2-3 Months)**
 
-- Build the core game systems (movement, stealth mechanics, puzzle interactions).
-- Develop the 3D and 2D environments, including level design.
-- Implement basic AI for guards and environmental interactions.
+- **Concept Development**  
+  - Finalize an extensive game design document covering narrative, mechanics, systems, and art direction.  
+  - Conduct research to refine the story, character development, and gameplay flow.  
 
-## Phase 2 (TBD):
+- **Prototyping**  
+  - Create proof-of-concept prototypes for:
+    - 3D gameplay (Leo’s movement, stealth mechanics).  
+    - 2D hacking interface and interactions (Vinny’s gameplay).  
+  - Test and refine based on feedback.  
 
-- Finalize level design and gameplay balance.
-- Polish art assets, sound design, and UI/UX elements.
-- Conduct extensive playtesting and gather feedback for iteration.
-- Implement speedrun mode and final cooperative features.
+- **Art Direction**  
+  - Develop style guides for environments, characters, UI, and visual effects.  
+  - Establish a consistent mood for diverse locations, from suburban homes to corporate offices.  
 
-# Post-production (TBD)
+---
 
-- Final polishing and debugging.
-- Marketing preparation and promotional material creation.
-- Launching the game, followed by post-launch support and updates based on player feedback.
+## **Production**  
+### **Phase 1: Core Systems Development (6-8 Months)**
 
-# Key Milestones
-<br>
+1. **Core Gameplay Implementation**  
+   - Develop core systems for:
+     - Player movement, including stealth mechanics (Leo).  
+     - Hacking and puzzle systems (Vinny).  
+   - Build a working inventory and interaction system for both characters.  
 
-## Concept Approval
+2. **Environment Development**  
+   - Begin creating modular assets for each location:  
+     - Suburban house, café, warehouse, Neotech headquarters.  
+   - Block out and iterate on level layouts, ensuring smooth gameplay progression.  
 
-- Finalized game design document.
-- Initial prototypes demonstrating core mechanics.
+3. **AI and Gameplay Systems**  
+   - Develop basic AI systems for guards, including patrol routes and alert mechanics.  
+   - Create environmental hazards (cameras, motion sensors, alarms).  
 
-## Alpha Build (TBD)
+4. **Placeholder Assets**  
+   - Produce temporary assets for early testing, such as characters, props, and environmental elements.  
 
-- Playable version of the game featuring basic gameplay, core mechanics, and initial levels.
+---
 
-## Beta Build (TBD)
-- Feature-complete version with polished graphics, gameplay, and final levels.
-- Start of community playtesting and feedback collection.
+### **Phase 2: Content Creation and Polish (10-12 Months)**
 
-## Release Candidate (TBD)
+1. **Expanded Level Design**  
+   - Finalize layouts for all levels, including unique spaces like maintenance tunnels and security offices.  
+   - Add interactive elements, puzzles, and story-related objects.  
 
-- Final build prepared for launch, incorporating playtesting feedback and necessary fixes.
+2. **Art and Animation**  
+   - Replace placeholders with polished 3D models, textures, and animations.  
+   - Develop detailed character models for Leo, Vinny, and NPCs.  
 
-## Launch (TBD)
+3. **Advanced AI**  
+   - Enhance guard behaviors with dynamic responses to player actions.  
+   - Add unique NPC interactions based on their roles (e.g., tech workers, security personnel).  
 
-- Official release of the game on chosen platforms.
+4. **Sound and Voice Implementation**  
+   - Integrate finalized soundtrack, sound effects, and voiceovers into the game.  
 
-## Post-Launch Support (Ongoing)
+5. **UI/UX Enhancements**  
+   - Develop and polish user interfaces for hacking, inventory management, and mission tracking.  
+   - Refine tutorials and player guidance systems.  
 
-- Regular updates and patches based on player feedback.
-- Potential expansion content based on community engagement.
+---
 
-# Team Structure
-<br>
+### **Phase 3: Testing and Final Polish (6-8 Months)**
 
-## Project Manager
+1. **Extensive Playtesting**  
+   - Conduct multiple rounds of testing, focusing on mechanics, pacing, and balance.  
+   - Collect feedback from external testers to identify pain points and areas for improvement.  
 
-- mrcsmcl (Marcos)
+2. **Optimization**  
+   - Enhance game performance across all target platforms.  
+   - Optimize AI and environmental interactions to prevent bugs.  
 
-## Game Designers
+3. **Final Adjustments**  
+   - Refine visuals, animations, and effects for a cohesive aesthetic.  
+   - Address all major and minor issues uncovered during testing.  
 
-- mrcsmcl (Marcos)
+---
 
-## Programmers
+## **Post-Production (3-4 Months)**
 
-- ninjanick (Nicholas)
-- Kesoona (Bb)
-- Kyn21kx (Nef)
+1. **Final Debugging and Polishing**  
+   - Ensure all gameplay elements function smoothly without crashes or performance dips.  
 
-## Artists
+2. **Marketing and Promotion**  
+   - Create promotional materials, including gameplay trailers and key art.  
+   - Develop a community engagement strategy, such as social media campaigns and pre-launch events.  
 
-- Yahya aka “Yahyeet!!!” (Yahya)
-- kryptonhexafluoride (Meera)
+3. **Launch and Post-Launch Support**  
+   - Release the game on targeted platforms.  
+   - Monitor feedback and release patches or updates as needed.  
 
-## Sound Designer
-TBD
+---
 
-## Quality Assurance Testers
-TBD
+## **Key Milestones**
 
-## Marketing/Community Manager
-TBD
+1. **Concept Approval (End of Pre-Production)**  
+   - Game design document and prototypes showcasing key mechanics.  
+
+2. **Alpha Build (End of Phase 1)**  
+   - Playable version featuring core gameplay mechanics and basic environments.  
+
+3. **Beta Build (End of Phase 2)**  
+   - Feature-complete build with finalized assets, polished systems, and balanced gameplay.  
+
+4. **Release Candidate (End of Phase 3)**  
+   - Ready-to-launch build incorporating feedback from playtesting.  
+
+5. **Launch**  
+   - Official release of the game on chosen platforms.  
+
+---
+
+## **Team Structure**
+
+1. **Project Manager and Game Designer**  
+   - **mrcsmcl (Marcos):** Oversees project scope, milestones, and design consistency.  
+
+2. **Lead Programmer**  
+   - **Kesoona (Bb):** Handles core mechanics, AI behaviors, and system optimization.  
+
+3. **Lead Artist**  
+   - **Yahya aka “Yahyeet!!!” (Yahya):** Creates 3D models, animations, and visual effects.  
+
+4. **Sound Designer**  
+   - **TBD:** Designs and integrates audio assets.  
+
+5. **Quality Assurance Testers**  
+   - **TBD:** Performs detailed playtesting and reports issues.  
+
+6. **Marketing/Community Manager**  
+   - **TBD:** Manages promotional campaigns and community engagement.  
+
+---
+
+### **Development Timeline**  
+**Total Duration:** ~24-30 months, with flexibility for iteration and unforeseen challenges.
