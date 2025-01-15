@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2025-01-15T21:51:44.974Z
+date: 2025-01-15T21:52:09.678Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
@@ -99,7 +99,7 @@ The art style for the game combines futuristic realism with a narrative-driven a
     <td><a href="https://imgur.com/a/RmEYt5i"><img src="https://i.imgur.com/PTY9cOJ.png" alt="NTHQ" title="NTHQ" width="500"></a></td>
   </tr>
     <tr>
-    <td colspan="2" style="text-align: center;"><a href="https://imgur.com/a/swXueQE"><img src="https://i.imgur.com/syZV7jA.jpeg" alt="Lobby" title="NTHQ" width="1000"></a></td>
+    <td colspan="2" style="text-align: center;"><a href="https://imgur.com/a/swXueQE"><img src="https://i.imgur.com/syZV7jA.jpeg" alt="Lobby" title="NTHQ" width="1100"></a></td>
   </tr>
 </table>
 </div>
