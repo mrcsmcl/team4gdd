@@ -2,7 +2,7 @@
 title: Resilio Sync Info
 description: 
 published: 1
-date: 2025-01-15T21:28:20.622Z
+date: 2025-01-15T21:36:29.897Z
 tags: resilio, share, sync
 editor: markdown
 dateCreated: 2025-01-15T21:21:48.000Z
@@ -44,3 +44,9 @@ Below is a list of folders that will be synchronized using Resilio Sync, with a 
 - **Playground** is specifically for experimentation. Feel free to add, test, or modify Unreal Engine assets or ideas here.
 - Keep the **Videos**, **Images**, and **Edits** folders clean and organized to ensure easy access for the team.
 - For large files like videos, ensure you have adequate bandwidth and storage before syncing.
+
+<br>
+
+> Resilio Sync is free to use for personal purposes. However, depending on your usage or the need to access the shared folders listed above, you might require a license. This could involve creating an account or upgrading to a paid version. Simply download this file ([resiliosyncpro.btskey](/resiliosyncpro.btskey)) and follow Resilio Sync's instructions to activate the license on your device. If you have any issues, feel free to reach out for assistance.
+{.is-warning}
+
