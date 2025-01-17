@@ -2,8 +2,8 @@
 title: Gameplay
 description: 
 published: 1
-date: 2024-11-04T13:12:59.144Z
-tags: gameplay
+date: 2025-01-17T15:58:39.882Z
+tags: gameplay, outdated
 editor: markdown
 dateCreated: 2024-10-24T13:15:07.255Z
 ---
