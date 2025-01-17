@@ -2,8 +2,8 @@
 title: Level and World Design
 description: 
 published: 1
-date: 2024-11-04T13:46:40.785Z
-tags: level, world design
+date: 2025-01-17T16:13:58.711Z
+tags: level, outdated, world design
 editor: markdown
 dateCreated: 2024-10-24T13:19:48.859Z
 ---
