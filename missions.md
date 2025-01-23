@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-23T20:58:51.555Z
+date: 2025-01-23T20:59:30.411Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -69,6 +69,8 @@ The player will fail the level if:
 - Leo is detected by cameras or sensors: Some areas have direct surveillance, which Vinny can disable temporarily, but mistakes cost the mission. Some cameras, even with access, Vinny cannot disable.
 - Leo is seen by family members: Any direct eye contact with the father, mother, or Clara results in failure.
 - Leo does not collect at least three main items: The soda can, the clock, and The Little Prince book.
+
+---
 
 ### 3. Level Structure and Design
 
