@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-23T20:59:30.411Z
+date: 2025-01-23T21:04:32.379Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -231,3 +231,44 @@ After collecting all the necessary items, the player must return to the garage w
 
 4. **Final Encounter with Vinny’s Dad:**
    - **Event:** Before escaping, Vinny’s dad blocks the way to the basement, forcing the player to create a quick distraction and escape through the side garage door.
+
+### 7. Environment and Narrative
+
+#### Visual Style:
+
+#### Sound and Music:
+
+#### Story of the Level:
+
+---
+
+### 8. Difficulty Curve
+
+#### Challenge Progression:
+
+#### Save Points/Checkpoints:
+
+#### Available Resources:
+
+---
+
+### 9. Gameplay Testing
+
+#### Level Flow:
+
+#### Player Feedback:
+
+#### Replayability:
+
+---
+
+### 10. Visual References and Supporting Documentation
+
+#### Concept Art:
+
+#### Inspirational References:
+
+#### Prototyping:
+
+
+## Level 02
