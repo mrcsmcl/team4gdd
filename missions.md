@@ -2,8 +2,8 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-23T20:57:48.275Z
-tags: missions, flow, level flow
+date: 2025-01-23T20:58:51.555Z
+tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
 ---
@@ -151,6 +151,8 @@ The player begins in the garage. Vinny introduces the objective: practice stealt
 
 **Exiting the Level:**  
 After collecting all the necessary items, the player must return to the garage without being detected. Vinny creates a final distraction (cuts the power to the house for 10 seconds), allowing Leo to move quickly. The level ends with Vinny praising Leo but mentioning that the next real mission will be much harder.
+
+---
 
 ### 5. Characters and NPCs
 
