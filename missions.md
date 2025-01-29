@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-23T21:04:32.379Z
+date: 2025-01-29T23:16:16.308Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -232,43 +232,141 @@ After collecting all the necessary items, the player must return to the garage w
 4. **Final Encounter with Vinny’s Dad:**
    - **Event:** Before escaping, Vinny’s dad blocks the way to the basement, forcing the player to create a quick distraction and escape through the side garage door.
 
-### 7. Environment and Narrative
+#### 7. Environment and Narrative
 
-#### Visual Style:
+##### Visual Style
+- **Color Palette:** The level is dominated by warm and cozy tones like brown, cream, and orange, reflecting the decor of a classic, comfortable home. The basement and garage utilize colder and industrial tones, such as gray and blue.
 
-#### Sound and Music:
+##### Lighting
+- **Living Room and Bedrooms:** Soft, diffuse lighting from table lamps and semi-open windows, creating a nighttime atmosphere.  
+- **Basement:** Dark, with flickering fluorescent lights, adding tension.  
+- **Garage:** Well-lit by ceiling lights, casting shadows from tools and shelves.  
 
-#### Story of the Level:
+##### Architectural Design
+The house follows a typical American middle-class architecture with a slightly messy decor. Scattered objects tell small stories (open books, coffee cups, and disheveled cushions).  
+
+##### Sound and Music
+###### General Soundtrack
+- A tranquil domestic ambiance, with clock ticking, soft footsteps, and creaky floorboards.  
+- In the basement, the music shifts to suspenseful tones, with a rising beat as the player approaches the objective.  
+
+###### Key Sound Effects
+- Clara yelling from her room upon realizing the WiFi is down.  
+- The alarm blaring in the basement when triggered.  
+- Tools powering on in the garage during the final distraction.  
+
+##### Level Story
+The house belongs to a family that values tradition and routine. Environmental details provide emotional and narrative context:
+
+- **Photos:**  
+  - Portraits around the house show Vinny and Clara growing up, capturing happy family moments and important milestones.  
+  - Specific photos highlight Vinny and Leo’s friendship over time, showcasing outings, birthdays, and joint projects.  
+- **Objects:**  
+  - A diary in Clara’s room mentions fights over WiFi and her obsession with social media.  
+  - Vinny’s room contains prototypes of technological devices, revealing his passion for hacking and inventing.  
+- **Basement Lore:**  
+  - The basement is described as the "forbidden space" for the children, filled with tools and old items. A sign hangs, reading: "Permission Required Only."  
 
 ---
 
-### 8. Difficulty Curve
+#### 8. Difficulty Curve
 
-#### Challenge Progression:
+##### Challenge Progression
 
-#### Save Points/Checkpoints:
+###### **Beginning (Introduction Phase)**
+- The player is introduced to basic mechanics, such as observing sensors and using simple distractions.  
+  - **Example:** A rotating sensor in the hallway forces the player to time their movement.  
 
-#### Available Resources:
+###### **Middle (Intermediate Phase)**
+- More elaborate challenges are introduced, such as combining simultaneous distractions and avoiding multiple sensors.  
+  - **Example:** In the basement, cameras must be hacked while the player moves stealthily.  
+
+###### **Final (Climax)**
+- The tension escalates with the basement alarm and the final encounter with Vinny's father, requiring quick reflexes and strategy to escape.
+
+##### Save Points/Checkpoints
+
+###### **Strategic Locations**
+- **Garage (Start):** The player begins here.  
+- **Clara’s Room:** A checkpoint is activated upon finding important information in the diary.  
+- **Basement:** Checkpoint activated upon retrieving the USB, initiating the final sequence.  
+
+###### **Logic:**  
+- Checkpoints are positioned before critical moments to prevent frustration in case of failure.
 
 ---
 
-### 9. Gameplay Testing
+##### Available Resources
 
-#### Level Flow:
+###### **Level Items**
+- **Access Key:**  
+  - Appears randomly in different locations within the house for each player attempt, adding unpredictability.  
+  - Examples of possible locations include Clara's room, the living room, or the study.  
+- **USB in the Basement:** The primary item the player must collect.
 
-#### Player Feedback:
-
-#### Replayability:
+###### **Distractions**
+- **WiFi and Lights:** Activated by Vinny as resources to bypass obstacles and divert attention.  
+- **Garage Tools:** Powered on during the final encounter to distract Vinny's father.
 
 ---
 
-### 10. Visual References and Supporting Documentation
+#### 9. Gameplay Testing
 
-#### Concept Art:
+##### Level Flow
+**Verification:**  
+- Assess whether players can navigate without feeling lost, with clear objectives and well-positioned checkpoints.  
+- Observe if the placement of sensors and distractions creates tension without making the level frustrating.  
 
-#### Inspirational References:
+**Approval Criteria:**  
+- Main paths must be well-defined, with optional secondary areas that encourage exploration.  
+- There should be no unnecessary "dead ends" or excessively complex sections.
 
-#### Prototyping:
+---
+
+##### Player Feedback
+**Verification:**  
+- Players must receive clear visual and audio cues regarding their actions. Examples include:  
+  - Flickering lights when hacking the WiFi.  
+  - Alert sounds when sensors are triggered.  
+  - Brief interface messages when a checkpoint is activated or an objective is completed.  
+
+**Approval Criteria:**  
+- Audio and visual feedback should be immediate and coherent with the action.  
+- Error or failure messages should be clear and non-intrusive.
+
+---
+
+##### Replayability
+**Verification:**  
+- Test whether the randomized key locations offer interesting variations with each attempt.  
+- Evaluate if collectibles (photos and narrative logs) encourage players to explore the house thoroughly.
+
+**Approval Criteria:**  
+- Each new attempt should introduce enough changes to keep the experience fresh.  
+- Optional elements (such as finding all photos) should provide an additional challenge for curious players.
+
+---
+
+#### 10. Visual References and Support Documentation
+
+### Concept Art
+Suggested mockups for representing:  
+- **Garage:** Tools hanging on the walls, messy shelves, and industrial lighting.
+- **Living Room:** Family photos on the walls, cozy furniture, and soft lighting.  
+- **Basement:** Tense atmosphere with exposed cables, flickering lights, and old technological equipment.
+
+---
+
+### Prototyping
+
+**Testing Process:**  
+- Initial prototype with a basic house layout to validate gameplay flow.  
+- Iterations to balance sensors and challenges, as well as positioning narrative elements.  
+- Specific tests to validate key randomness and distraction functionality.  
+
+**Feedback Collected:**  
+- Improve the checkpoint system to reduce player frustration.  
+- Make visual feedback for distractions more evident.
 
 
 ## Level 02
