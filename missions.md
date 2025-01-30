@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-29T23:17:52.068Z
+date: 2025-01-30T16:21:35.421Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -351,9 +351,54 @@ The house belongs to a family that values tradition and routine. Environmental d
 
 ### Concept Art
 Suggested mockups for representing:  
-- **Garage:** Tools hanging on the walls, messy shelves, and industrial lighting.
-- **Living Room:** Family photos on the walls, cozy furniture, and soft lighting.  
-- **Basement:** Tense atmosphere with exposed cables, flickering lights, and old technological equipment.
+- **Garage:**
+
+[![Garage](https://i.imgur.com/NhtscfX.jpeg "Garage")](https://imgur.com/a/zShKi9j)
+[![Garage](https://i.imgur.com/YcKRINq.jpeg "Garage")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Living Room:**
+
+[![Living Room](https://i.imgur.com/TRIzhuC.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
+[![Living Room](https://i.imgur.com/dOR4PLt.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Kitchen:**
+
+[![Kitchen](https://i.imgur.com/C7f9uIZ.jpeg "Kithen")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Clara's Room:**
+
+[![Clara's Room](https://i.imgur.com/cjbdpVd.jpeg "Clara's Room")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Vinny's Room:**
+
+[![Vinny's Room](https://i.imgur.com/JojzYw7.jpeg "Vinny's Room")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Parents's Room:**
+
+[![Parents's Room](https://i.imgur.com/TsSTFCy.jpeg "Parents's Room")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Basement:**
+
+[![Basement](https://i.imgur.com/h92SLsW.jpeg "Basement")](https://imgur.com/a/zShKi9j)
+
+---
+
+- **Others:**
+
+[![Othes](https://i.imgur.com/zpyhMJI.jpeg "Others")](https://imgur.com/a/zShKi9j)
+
 
 ---
 
