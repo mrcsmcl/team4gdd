@@ -2,7 +2,7 @@
 title: Story and Narrative
 description: 
 published: 1
-date: 2025-01-15T14:14:42.746Z
+date: 2025-01-30T21:12:07.983Z
 tags: narrative, story
 editor: markdown
 dateCreated: 2024-10-24T13:18:50.559Z
@@ -10,7 +10,7 @@ dateCreated: 2024-10-24T13:18:50.559Z
 
 # Main Plot
 
-Leo and Vinny, two childhood friends, started small in the world of crime by stealing a Nexus 2000 gaming console from a local store. It was a spur-of-the-moment decision, driven more by excitement than necessity. However, the success of their initial heist fueled their confidence, leading them to progressively bigger and riskier operations. They became skilled in bypassing security systems and using stolen equipment to enhance their methods.
+Leo and Vinny, two childhood friends, started small in the world of crime by stealing a Nexus 9000 gaming console from a local store. It was a spur-of-the-moment decision, driven more by excitement than necessity. However, the success of their initial heist fueled their confidence, leading them to progressively bigger and riskier operations. They became skilled in bypassing security systems and using stolen equipment to enhance their methods.
 
 Their ambition grew alongside their success. They began targeting tech companies and retailers, acquiring sophisticated tools which made their heists more efficient. Over time, their goals shifted from simply surviving to amassing wealth and proving their prowess in the criminal underworld.
 
