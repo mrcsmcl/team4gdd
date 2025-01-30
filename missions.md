@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-30T16:27:48.195Z
+date: 2025-01-30T16:30:30.693Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -50,6 +50,11 @@ As Leo, the player must collect five key items from the house without being dete
 5. **Vinny's Gaming Mouse (Optional Item):**  
    - **Location:** Vinny's room  
    - **Challenge:** Vinny's room is equipped with sound and motion sensors, so any misstep will trigger the alarm. This item is optional but challenges the player to use advanced stealth skills.
+
+---
+
+[![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
+[![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 
 ---
 
