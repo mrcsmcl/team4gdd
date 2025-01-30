@@ -2,7 +2,7 @@
 title: Missions
 description: 
 published: 1
-date: 2025-01-30T16:21:35.421Z
+date: 2025-01-30T16:27:48.195Z
 tags: flow, level flow, missions
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -35,9 +35,9 @@ As Leo, the player must collect five key items from the house without being dete
    - **Location:** Kitchen  
    - **Challenge:** Vinny's mother is preparing food. The kitchen has motion sensors that Vinny can disable for short periods. The player will need to coordinate timing to open the fridge and grab the can.
 
-2. **Vinny's Father's Clock:**  
+2. **Vinny's Father's Wristwatch:**  
    - **Location:** Living room coffee table  
-   - **Challenge:** Vinny's father is in the living room watching TV. The player will need to have Vinny hack the TV, temporarily turning it off, which will force the father to check the situation, granting access to the clock.
+   - **Challenge:** Vinny's father is in the living room watching TV. The player will need to have Vinny hack the TV, temporarily turning it off, which will force the father to check the situation, granting access to the watch.
 
 3. **The Little Prince Book:**  
    - **Location:** Clara's room (Vinny's younger sister)  
@@ -68,7 +68,7 @@ As Leo, the player must collect five key items from the house without being dete
 The player will fail the level if:
 - Leo is detected by cameras or sensors: Some areas have direct surveillance, which Vinny can disable temporarily, but mistakes cost the mission. Some cameras, even with access, Vinny cannot disable.
 - Leo is seen by family members: Any direct eye contact with the father, mother, or Clara results in failure.
-- Leo does not collect at least three main items: The soda can, the clock, and The Little Prince book.
+- Leo does not collect at least three main items: The soda can, the watch, and The Little Prince book.
 
 ---
 
@@ -82,7 +82,7 @@ The level is divided into several interconnected areas within the house, with al
 
 - **Living Room:**  
   - Where Vinny's father is watching TV.  
-  - A clock is on the coffee table. The path to this area passes through a monitored corridor.
+  - A watch is on the coffee table. The path to this area passes through a monitored corridor.
 
 - **Kitchen:**  
   - Contains the fridge with the can of soda.  
@@ -103,7 +103,7 @@ The level is divided into several interconnected areas within the house, with al
    - The player learns basic movement and interaction controls while Vinny explains the plan through the headset.
    
 2. **Living Room:**  
-   - The first stealth challenge: grab the clock without alerting the father.
+   - The first stealth challenge: grab the watch without alerting the father.
 
 3. **Kitchen:**  
    - Temporarily disable sensors and coordinate opening the fridge.
@@ -131,7 +131,7 @@ The player begins in the garage. Vinny introduces the objective: practice stealt
 
 **Main Events:**  
 1. **Living Room:**  
-   - **Event:** Vinny turns off the TV to distract the father, who will talk to the mother if she turned it off, and then return to look for the remote. The player needs to act quickly to grab the clock.  
+   - **Event:** Vinny turns off the TV to distract the father, who will talk to the mother if she turned it off, and then return to look for the remote. The player needs to act quickly to grab the watch.  
    - **Alternative Event:** Leo acquires the TV remote and turns it off to distract the father.
 
 2. **Clara's Room:**  
