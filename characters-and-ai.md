@@ -2,7 +2,7 @@
 title: Characters and AI
 description: 
 published: 1
-date: 2025-01-15T13:13:55.874Z
+date: 2025-02-13T23:38:11.759Z
 tags: ai, characters
 editor: markdown
 dateCreated: 2024-10-24T13:21:29.347Z
