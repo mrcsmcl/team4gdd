@@ -2,7 +2,7 @@
 title: Art and Visual Design
 description: 
 published: 1
-date: 2025-01-15T21:52:09.678Z
+date: 2025-02-13T22:01:49.511Z
 tags: art, visual design
 editor: markdown
 dateCreated: 2024-10-24T13:31:37.454Z
