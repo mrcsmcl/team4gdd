@@ -2,7 +2,7 @@
 title: Monetization and Launch
 description: 
 published: 1
-date: 2025-01-15T12:03:04.285Z
+date: 2025-02-13T23:38:34.560Z
 tags: launch, monetization
 editor: markdown
 dateCreated: 2024-10-24T13:35:18.356Z
