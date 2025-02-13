@@ -2,7 +2,7 @@
 title: Story and Narrative
 description: 
 published: 1
-date: 2025-01-30T21:12:07.983Z
+date: 2025-02-13T23:38:39.157Z
 tags: narrative, story
 editor: markdown
 dateCreated: 2024-10-24T13:18:50.559Z
