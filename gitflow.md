@@ -2,8 +2,8 @@
 title: GitHub Organization
 description: 
 published: 1
-date: 2025-01-15T21:37:53.470Z
-tags: organization, gitflow, github
+date: 2025-02-13T23:38:57.761Z
+tags: gitflow, github, organization
 editor: markdown
 dateCreated: 2025-01-14T15:36:59.123Z
 ---
