@@ -1,8 +1,8 @@
 ---
-title: Level 01
+title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-14T12:27:50.091Z
+date: 2025-02-14T12:29:24.534Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -30,23 +30,23 @@ As Leo, the player must collect five key items from the house without being dete
 
 ## Tab {.tabset}
 
-### 1. **Can of Soda in the Fridge:**  
+### Can of Soda in the Fridge
    - **Location:** Kitchen  
    - **Challenge:** Vinny's mother is preparing food. The kitchen has motion sensors that Vinny can disable for short periods. The player will need to coordinate timing to open the fridge and grab the can.
 
-### 2. **Vinny's Father's Wristwatch:**  
+### Vinny's Father's Wristwatch
    - **Location:** Living room coffee table  
    - **Challenge:** Vinny's father is in the living room watching TV. The player will need to have Vinny hack the TV, temporarily turning it off, which will force the father to check the situation, granting access to the watch.
 
-### 3. **The Little Prince Book:**  
+### The Little Prince Book
    - **Location:** Clara's room (Vinny's younger sister)  
    - **Challenge:** Clara will be reading the book in bed. The player will need to create a distraction, like turning off the WiFi, to make her leave the room and talk to their parents, who will check the router. This will open a window to grab the book without being noticed.
 
-### 4. **USB with Confidential Files:**  
+### USB with Confidential Files
    - **Location:** Basement  
    - **Challenge:** The basement is locked, and the key is hidden somewhere in the house (with a random location). After finding the key, the player will need to avoid sensors and cameras in the basement to access the table where the USB is stored.
 
-### 5. **Vinny's Gaming Mouse (Optional Item):**  
+### Vinny's Gaming Mouse (Optional Item)
    - **Location:** Vinny's room  
    - **Challenge:** Vinny's room is equipped with sound and motion sensors, so any misstep will trigger the alarm. This item is optional but challenges the player to use advanced stealth skills.
 
@@ -364,37 +364,37 @@ Suggested mockups for representing:
 
 ### Tab {.tabset}
 
-#### Garage:
+#### Garage
 
 [![Garage](https://i.imgur.com/NhtscfX.jpeg "Garage")](https://imgur.com/a/zShKi9j)
 [![Garage](https://i.imgur.com/YcKRINq.jpeg "Garage")](https://imgur.com/a/zShKi9j)
 
-#### Living Room:
+#### Living Room
 
 [![Living Room](https://i.imgur.com/TRIzhuC.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
 [![Living Room](https://i.imgur.com/dOR4PLt.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
 
-#### Kitchen:
+#### Kitchen
 
 [![Kitchen](https://i.imgur.com/C7f9uIZ.jpeg "Kithen")](https://imgur.com/a/zShKi9j)
 
-#### Clara's Room:
+#### Clara's Room
 
 [![Clara's Room](https://i.imgur.com/cjbdpVd.jpeg "Clara's Room")](https://imgur.com/a/zShKi9j)
 
-#### Vinny's Room:
+#### Vinny's Room
 
 [![Vinny's Room](https://i.imgur.com/JojzYw7.jpeg "Vinny's Room")](https://imgur.com/a/zShKi9j)
 
-#### Parents's Room:
+#### Parents's Room
 
 [![Parents's Room](https://i.imgur.com/TsSTFCy.jpeg "Parents's Room")](https://imgur.com/a/zShKi9j)
 
-#### Basement:
+#### Basement
 
 [![Basement](https://i.imgur.com/h92SLsW.jpeg "Basement")](https://imgur.com/a/zShKi9j)
 
-#### Others:
+#### Others
 
 [![Othes](https://i.imgur.com/zpyhMJI.jpeg "Others")](https://imgur.com/a/zShKi9j)
 
