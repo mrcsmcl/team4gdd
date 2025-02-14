@@ -2,7 +2,7 @@
 title: Level 01
 description: 
 published: 1
-date: 2025-02-14T12:22:42.707Z
+date: 2025-02-14T12:27:50.091Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -50,7 +50,7 @@ As Leo, the player must collect five key items from the house without being dete
    - **Location:** Vinny's room  
    - **Challenge:** Vinny's room is equipped with sound and motion sensors, so any misstep will trigger the alarm. This item is optional but challenges the player to use advanced stealth skills.
 
-### Important Items
+### Reference Images
 
 [![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 [![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
@@ -77,6 +77,8 @@ The player will fail the level if:
 ---
 
 # 3. Level Structure and Design
+
+# Tab {.tabset}
 
 ## Map and Layout:
 The level is divided into several interconnected areas within the house, with alternative paths and points of interest.
@@ -129,6 +131,8 @@ The level is divided into several interconnected areas within the house, with al
 ---
 
 # 4. Walkthrough (Step-by-Step)
+
+# Tab {.tabset}
 
 ## Entering the Level: 
 The player begins in the garage. Vinny introduces the objective: practice stealth and collect five key items without alerting the family. The player learns to move, create basic distractions, and hide.
@@ -357,51 +361,40 @@ The house belongs to a family that values tradition and routine. Environmental d
 
 ## Concept Art
 Suggested mockups for representing:  
-- **Garage:**
+
+### Tab {.tabset}
+
+#### Garage:
 
 [![Garage](https://i.imgur.com/NhtscfX.jpeg "Garage")](https://imgur.com/a/zShKi9j)
 [![Garage](https://i.imgur.com/YcKRINq.jpeg "Garage")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Living Room:**
+#### Living Room:
 
 [![Living Room](https://i.imgur.com/TRIzhuC.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
 [![Living Room](https://i.imgur.com/dOR4PLt.jpeg "Living Room")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Kitchen:**
+#### Kitchen:
 
 [![Kitchen](https://i.imgur.com/C7f9uIZ.jpeg "Kithen")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Clara's Room:**
+#### Clara's Room:
 
 [![Clara's Room](https://i.imgur.com/cjbdpVd.jpeg "Clara's Room")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Vinny's Room:**
+#### Vinny's Room:
 
 [![Vinny's Room](https://i.imgur.com/JojzYw7.jpeg "Vinny's Room")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Parents's Room:**
+#### Parents's Room:
 
 [![Parents's Room](https://i.imgur.com/TsSTFCy.jpeg "Parents's Room")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Basement:**
+#### Basement:
 
 [![Basement](https://i.imgur.com/h92SLsW.jpeg "Basement")](https://imgur.com/a/zShKi9j)
 
----
-
-- **Others:**
+#### Others:
 
 [![Othes](https://i.imgur.com/zpyhMJI.jpeg "Others")](https://imgur.com/a/zShKi9j)
 
