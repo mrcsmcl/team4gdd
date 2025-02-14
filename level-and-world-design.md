@@ -2,8 +2,8 @@
 title: Level and World Design
 description: 
 published: 1
-date: 2025-02-13T23:38:25.633Z
-tags: level, world design
+date: 2025-02-14T18:26:15.763Z
+tags: flow, level, level flow, levels, missions, world design
 editor: markdown
 dateCreated: 2024-10-24T13:19:48.859Z
 ---
@@ -12,7 +12,14 @@ The design philosophy of the game focuses on creating a **highly immersive world
 
 ---
 
-## **Level Structure**
+## Levels List
+
+- [Level 01 - Vinny's House](/levels/level01)
+{.links-list}
+
+---
+
+## Level Structure
 
 1. **Campaign-Based Progression**  
    - The game is divided into a series of **missions** tied to the overarching narrative.  
