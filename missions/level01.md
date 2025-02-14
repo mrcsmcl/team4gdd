@@ -2,8 +2,8 @@
 title: Level 01
 description: 
 published: 1
-date: 2025-02-14T12:18:03.431Z
-tags: flow, level flow, missions, level01
+date: 2025-02-14T12:22:42.707Z
+tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
 ---
@@ -28,27 +28,29 @@ The level is hybrid, allowing free exploration of the house, but with specific o
 ## Main Objective:
 As Leo, the player must collect five key items from the house without being detected by sensors or family members.
 
-1. **Can of Soda in the Fridge:**  
+## Tab {.tabset}
+
+### 1. **Can of Soda in the Fridge:**  
    - **Location:** Kitchen  
    - **Challenge:** Vinny's mother is preparing food. The kitchen has motion sensors that Vinny can disable for short periods. The player will need to coordinate timing to open the fridge and grab the can.
 
-2. **Vinny's Father's Wristwatch:**  
+### 2. **Vinny's Father's Wristwatch:**  
    - **Location:** Living room coffee table  
    - **Challenge:** Vinny's father is in the living room watching TV. The player will need to have Vinny hack the TV, temporarily turning it off, which will force the father to check the situation, granting access to the watch.
 
-3. **The Little Prince Book:**  
+### 3. **The Little Prince Book:**  
    - **Location:** Clara's room (Vinny's younger sister)  
    - **Challenge:** Clara will be reading the book in bed. The player will need to create a distraction, like turning off the WiFi, to make her leave the room and talk to their parents, who will check the router. This will open a window to grab the book without being noticed.
 
-4. **USB with Confidential Files:**  
+### 4. **USB with Confidential Files:**  
    - **Location:** Basement  
    - **Challenge:** The basement is locked, and the key is hidden somewhere in the house (with a random location). After finding the key, the player will need to avoid sensors and cameras in the basement to access the table where the USB is stored.
 
-5. **Vinny's Gaming Mouse (Optional Item):**  
+### 5. **Vinny's Gaming Mouse (Optional Item):**  
    - **Location:** Vinny's room  
    - **Challenge:** Vinny's room is equipped with sound and motion sensors, so any misstep will trigger the alarm. This item is optional but challenges the player to use advanced stealth skills.
 
----
+### Important Items
 
 [![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 [![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
