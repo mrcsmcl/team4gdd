@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-14T12:29:58.891Z
+date: 2025-02-14T12:32:02.880Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -76,8 +76,6 @@ The player will fail the level if:
 
 # 3. Level Structure and Design
 
-# Tab {.tabset}
-
 ## Map and Layout:
 The level is divided into several interconnected areas within the house, with alternative paths and points of interest.
 
@@ -129,8 +127,6 @@ The level is divided into several interconnected areas within the house, with al
 ---
 
 # 4. Walkthrough (Step-by-Step)
-
-# Tab {.tabset}
 
 ## Entering the Level: 
 The player begins in the garage. Vinny introduces the objective: practice stealth and collect five key items without alerting the family. The player learns to move, create basic distractions, and hide.
