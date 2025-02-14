@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-14T12:29:24.534Z
+date: 2025-02-14T12:29:58.891Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -54,8 +54,6 @@ As Leo, the player must collect five key items from the house without being dete
 
 [![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 [![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
-
----
 
 ## Secondary Objectives:
 
