@@ -2,7 +2,7 @@
 title: Story Dialogue
 description: 
 published: 1
-date: 2025-02-16T14:08:37.540Z
+date: 2025-02-16T14:14:33.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -14,6 +14,20 @@ dateCreated: 2025-01-23T20:57:48.275Z
 
 **Int. Suburban House Garage – Night**  
 A simple space, cluttered with tech: old monitors, disassembled computer parts, tangled cables. **VINNY** (nerdy, early twenties, with intense, restless eyes) is working on an old Linux terminal, while **LEO** (twenty-one, athletic, always with headphones) paces back and forth, holding a controller in his hands.
+
+<br>
+
+<details>
+  <summary>Concept Art</summary>
+  <a href="https://imgur.com/a/zShKi9j">
+    <img src="https://i.imgur.com/NhtscfX.jpeg" alt="Garage" title="Garage">
+  </a>
+  <a href="https://imgur.com/a/zShKi9j">
+    <img src="https://i.imgur.com/YcKRINq.jpeg" alt="Garage" title="Garage">
+  </a>
+</details>
+
+<br>
 
 > **LEO**  
 > *(impatient)*  
