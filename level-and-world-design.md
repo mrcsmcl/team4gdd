@@ -2,7 +2,7 @@
 title: Level and World Design
 description: 
 published: 1
-date: 2025-02-14T18:29:16.186Z
+date: 2025-02-16T13:14:04.723Z
 tags: flow, level, level flow, levels, missions, world design
 editor: markdown
 dateCreated: 2024-10-24T13:19:48.859Z
@@ -12,7 +12,7 @@ The design philosophy of the game focuses on creating a **highly immersive world
 
 ---
 
-## Levels List
+## Level Flow
 
 - [Level 01 - Vinny's House](/level-and-world-design/level01)
 {.links-list}
