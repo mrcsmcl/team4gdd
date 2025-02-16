@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-16T13:31:19.852Z
+date: 2025-02-16T14:00:08.817Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -172,10 +172,15 @@ After collecting all the necessary items, the player must return to the garage w
 # 5. Characters and NPCs
 
 ## Allies:
-- **Vinny:**
-  - **Role:** Player's guide throughout the level, communicating via headset.
-  - **Function:** Provides tips, guides through challenges (such as sensors and cameras), and remotely creates distractions, like turning off the WiFi or temporarily cutting the power.
-  - **Personality:** Sarcastic but resourceful. Often makes humorous comments to ease the tension.
+- **Vinny (Operator):**  
+  - **Role:** Remote operator and hacker guiding the mission.  
+  - **Function:** Monitors the house's security systems, disables sensors, and triggers distractions to create safe windows for Leo’s stealth actions.  
+  - **Personality:** Sarcastic, resourceful, and quick-witted; he uses humor to ease tension while ensuring the mission proceeds smoothly.
+
+- **Leo (Field Operative):**  
+  - **Role:** Agile executor on the ground responsible for physically retrieving mission-critical items.  
+  - **Function:** Moves stealthily through the house, follows Vinny's real-time guidance, and performs precise actions to collect the necessary items.  
+  - **Personality:** Calm under pressure, focused, and adaptive; Leo is quick on his feet, demonstrating excellent situational awareness and precision.
 
 ## Dialogues and Interactions:
 - **Vinny comments on the player's progress in real-time:**
@@ -209,6 +214,17 @@ After collecting all the necessary items, the player must return to the garage w
 ---
 
 # 6. Level-Specific Mechanics
+
+## Division of Responsibilities:
+- **Vinny (Operator):**
+  - **Role:** Stays at the computer, monitoring and managing the house's security systems.
+  - **Function:** Uses the hacking interface to view sensor statuses, disable digital security measures (like cameras and sensor feeds), and analyze security logs to identify vulnerabilities. All of his actions are strictly computer-based.
+  - **Limitations:** Cannot physically interact with any devices in the house.
+
+- **Leo (Field Operative):**
+  - **Role:** The only character on the ground who can physically manipulate the environment.
+  - **Function:** Executes all physical interactions such as turning off the TV or WiFi using the remote control, scattering toys around the house, and manually interacting with physical switches and devices.
+  - **Dependency:** Relies on Vinny’s real-time information and instructions to determine the optimal moment for physical actions.
 
 ## New Mechanics or Tools:
 
