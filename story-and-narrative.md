@@ -2,7 +2,7 @@
 title: Story and Narrative
 description: 
 published: 1
-date: 2025-02-13T23:38:39.157Z
+date: 2025-02-16T14:09:42.210Z
 tags: narrative, story
 editor: markdown
 dateCreated: 2024-10-24T13:18:50.559Z
@@ -102,5 +102,5 @@ Clara is Leo’s younger sister, full of curiosity and a desire to understand he
 
 # Dialogue and Events
 
-> The story dialogue can be found [HERE](https://1drv.ms/b/c/054f6515acd6df39/EfqSBeInX0BHn5fmFV7AdIUBFi6LSaCbJIJ3PzVsf0vSUg?e=jwlTVd)
-{.is-info}
+- [Story Dialogue](/story-and-narrative/dialogue)
+{.links-list}
