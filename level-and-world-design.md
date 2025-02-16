@@ -2,22 +2,13 @@
 title: Level and World Design
 description: 
 published: 1
-date: 2025-02-16T14:01:13.696Z
+date: 2025-02-16T14:02:10.756Z
 tags: flow, level, level flow, levels, missions, world design
 editor: markdown
 dateCreated: 2024-10-24T13:19:48.859Z
 ---
 
 The design philosophy of the game focuses on creating a **highly immersive world** that emphasizes player cooperation, exploration, and problem-solving. Levels are built around the central mechanic of dual gameplay, blending **stealth**, **hacking**, and **teamwork**. Each environment is crafted to support both characters' abilities, ensuring dynamic interactions between the physical and digital worlds.
-
----
-
-## Level Flow
-
-- [Level 01 - Vinny's House](/level-and-world-design/level01)
-{.links-list}
-- [Level 01 - Vinny's House - Operator Mode](/level-and-world-design/level01opmode)
-{.links-list}
 
 ---
 
@@ -126,3 +117,12 @@ The design philosophy of the game focuses on creating a **highly immersive world
 
 4. **Exit (Resolution)**  
    - Both players must coordinate to escape while avoiding newly deployed security bots.
+
+---
+
+## Level Flow
+
+- [Level 01 - Vinny's House](/level-and-world-design/level01)
+{.links-list}
+- [Level 01 - Vinny's House - Operator Mode](/level-and-world-design/level01opmode)
+{.links-list}
