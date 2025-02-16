@@ -2,7 +2,7 @@
 title: Story Dialogue
 description: 
 published: 1
-date: 2025-02-16T20:57:29.424Z
+date: 2025-02-16T21:12:25.963Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -1686,4 +1686,12 @@ Employees start exiting their offices, confused. The guards hesitate briefly but
 > It is already done.
 
 They exchange knowing glances as the café around them continues its routine, unaware of what just transpired.
+
+---
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 20vh;">
+  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+    TO BE CONTINUED
+  </div>
+</div>
 
