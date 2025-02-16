@@ -665,6 +665,8 @@ The electronics store is modern and vibrant, with a minimalist design and window
 > *(smiling, confident)*  
 > Absolutely sure. For now, you just need to look like any regular customer.
 
+---
+
 **Int. Electronics Store - Day**  
 **LEO** enters the store, pretending to be interested in some products. He stops at a gadget shelf, grabs some random devices, and pretends to read them while locating the SignalPro-X.
 
@@ -825,6 +827,8 @@ They both look at the backpack with the SignalPro-X, knowing that they now have 
 > *(smiling)*  
 > Got it, Mr. Nerd.
 
+---
+
 **Ext. Store - Night**  
 The store, illuminated only by streetlights and a few spotlights in the alley, appears peaceful. **LEO** is crouched near the loading entrance while **VINNY** monitors the cameras remotely.
 
@@ -849,6 +853,8 @@ The store, illuminated only by streetlights and a few spotlights in the alley, a
 > **LEO**  
 > *(lowering his voice)*  
 > Door's open. I'm going in.
+
+---
 
 **Int. Store Loading Area - Night**  
 The space is tight, with stacked boxes and dim lighting. **LEO** moves cautiously as **VINNY** continues guiding him.
@@ -1052,6 +1058,8 @@ The guard near the exit grabs his radio, confused, and runs to check the alarm, 
 > Now, Leo! Go!
 
 **LEO** runs silently to the exit, staying in the shadows. He carefully pushes the door to avoid making noise and steps out into the blind spot of the loading dock.
+
+---
 
 **Ext. Rear Parking Lot - Night**  
 **LEO** escapes into the parking lot and takes a deep breath, trying to calm his adrenaline. He whispers into the radio.
@@ -1466,6 +1474,8 @@ He types something on the keyboard, opening a digital map showing the locations 
 > **VINNY**  
 > Good. Now head back to the main entrance and go straight to the elevators.
 
+---
+
 **Int. Elevators of the administrative building – Afternoon**
 
 **LEO** passes through the detector without issue, pretending to look at his phone. He enters a crowded elevator, pressing the button for the third floor.
@@ -1560,6 +1570,8 @@ He heads towards the elevator but finds a locked door. Without hesitation, he us
 
 **LEO** enters quietly, closing the door behind him.
 
+---
+
 **Int. Document Room – Afternoon**
 
 **LEO** walks to the terminal and quickly examines the files in the boxes. He finds a folder labeled “Sensitive Projects” and opens it, revealing detailed blueprints of another NeoTech building with security system markings.
@@ -1646,6 +1658,8 @@ Employees start exiting their offices, confused. The guards hesitate briefly but
 **Ext. Side Entrance of the Building – Afternoon**
 
 **LEO** exits through the side, blending in with the evacuees. He walks quickly towards the café where **VINNY** is waiting.
+
+---
 
 **Int. Café – Afternoon**
 
