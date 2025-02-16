@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House - Operator Mode
 description: 
 published: 1
-date: 2025-02-16T19:58:02.469Z
+date: 2025-02-16T20:26:48.225Z
 tags: flow, level flow, level01, mission, operator
 editor: markdown
 dateCreated: 2025-02-16T13:31:17.592Z
@@ -293,6 +293,11 @@ Vinny's garage is a modest, cluttered space that doubles as a high-tech command 
 
 ## NeoShell OS
 At the core of Vinny’s operations is **NeoShell OS**, a Unix-based operating system developed by NeoTech. Designed to be clean, minimalist, yet immensely powerful, NeoShell OS provides Vinny with a suite of integrated tools crucial for his digital interventions.
+
+- [More information about NeoShell OS.](/neotech/neoshellos)
+{.links-list}
+
+<br>
 
 ### Key Features:
 - **Minimalistic Interface:**  
