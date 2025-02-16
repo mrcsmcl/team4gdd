@@ -2,7 +2,7 @@
 title: Story Dialogue
 description: 
 published: 1
-date: 2025-02-16T14:07:42.205Z
+date: 2025-02-16T14:08:37.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
