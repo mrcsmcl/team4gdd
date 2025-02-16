@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-14T18:26:36.248Z
+date: 2025-02-16T13:31:19.852Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -33,22 +33,33 @@ As Leo, the player must collect five key items from the house without being dete
 ### Can of Soda in the Fridge
    - **Location:** Kitchen  
    - **Challenge:** Vinny's mother is preparing food. The kitchen has motion sensors that Vinny can disable for short periods. The player will need to coordinate timing to open the fridge and grab the can.
-
+   - **Vinny’s Task:** Access the security panel through his computer and temporarily disable motion sensors.
+   - **Leo’s Task:** Move stealthily into the kitchen, grab the soda, and exit without making noise.
+   
 ### Vinny's Father's Wristwatch
    - **Location:** Living room coffee table  
    - **Challenge:** Vinny's father is in the living room watching TV. The player will need to have Vinny hack the TV, temporarily turning it off, which will force the father to check the situation, granting access to the watch.
-
+   - **Vinny’s Task:** Hack the TV, causing a temporary static disruption that forces the father to check the cables, creating an opening for Leo to act or turn the TV off.
+   - **Leo’s Task:** Turn of the TV and quickly grab the wristwatch while the father is distracted.
+   
 ### The Little Prince Book
    - **Location:** Clara's room (Vinny's younger sister)  
    - **Challenge:** Clara will be reading the book in bed. The player will need to create a distraction, like turning off the WiFi, to make her leave the room and talk to their parents, who will check the router. This will open a window to grab the book without being noticed.
+   - **Vinny’s Task:** Shut down the WiFi, forcing Clara to investigate the router. This temporarily removes her from the room, giving Leo access to the book.
+   - **Leo’s Task:** Enter the room, retrieve the book, and leave before Clara returns. The WiFi can also be turned off by Leo.
+   - **Risk:** While the WiFi is off, Vinny loses all direct communication with Leo, requiring precise pre-planning.
 
 ### USB with Confidential Files
    - **Location:** Basement  
    - **Challenge:** The basement is locked, and the key is hidden somewhere in the house (with a random location). After finding the key, the player will need to avoid sensors and cameras in the basement to access the table where the USB is stored.
+   - **Vinny’s Task:** Locate the key via the home security cameras and disable basement cameras for a limited time.
+   - **Leo’s Task:** Find the key, unlock the basement, retrieve the USB, and exit without being caught.
 
 ### Vinny's Gaming Mouse (Optional Item)
    - **Location:** Vinny's room  
    - **Challenge:** Vinny's room is equipped with sound and motion sensors, so any misstep will trigger the alarm. This item is optional but challenges the player to use advanced stealth skills.
+   - **Vinny’s Task:** Remotely adjust the house’s sound system to create background noise, masking Leo’s movements.
+   - **Leo’s Task:** Move carefully to retrieve the gaming mouse and exit without triggering any alarms.
 
 ### Reference Images
 
