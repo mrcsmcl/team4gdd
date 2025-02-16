@@ -2,7 +2,7 @@
 title: Story Dialogue
 description: 
 published: 1
-date: 2025-02-16T21:12:25.963Z
+date: 2025-02-16T21:13:08.514Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:57:48.275Z
@@ -1695,3 +1695,4 @@ They exchange knowing glances as the café around them continues its routine, un
   </div>
 </div>
 
+---
