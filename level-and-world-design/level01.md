@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House
 description: 
 published: 1
-date: 2025-02-16T14:00:08.817Z
+date: 2025-02-17T12:30:59.593Z
 tags: flow, level flow, level01, missions
 editor: markdown
 dateCreated: 2025-02-14T12:18:03.431Z
@@ -12,20 +12,20 @@ dateCreated: 2025-02-14T12:18:03.431Z
 
 **Level Name:** Vinny's House  
 
-**Theme/Environment:**  
+**Theme/Environment**  
 The level takes place in a typical suburban house at night, with a cozy atmosphere but filled with unexpected challenges. The house's decor is simple but hides a touch of technological improvisation due to Vinny's involvement with hacking. Motion sensors are installed, security cameras are placed at strategic points, and automated lights can change the mood of the situation. The house is slightly messy, reflecting the everyday routine of a regular family.
 
-**Narrative Context:**  
+**Narrative Context**  
 This level serves as an introductory tutorial for the player to learn the dynamics of cooperation between Vinny (the hacker strategist) and Leo (the agile executor). After discussing a plan to steal a next-gen console from a futuristic store, Vinny suggests a practical test: turning his own house into a simulation field for Leo to prove he's up to the mission. The player takes on the role of Leo, who must move stealthily through the house while Vinny remotely guides him and creates distractions using his hacking skills. This familiar environment also reinforces the relaxed relationship between the two protagonists.
 
-**Size and Structure:**  
+**Size and Structure**  
 The level is hybrid, allowing free exploration of the house, but with specific objectives and challenges in different rooms. The structure of the challenges guides the player through the space, while the need to create distractions opens up new strategic possibilities.
 
 ---
 
 # 2. Level Objectives
 
-## Main Objective:
+## Main Objective
 As Leo, the player must collect five key items from the house without being detected by sensors or family members.
 
 ## Tab {.tabset}
@@ -66,7 +66,7 @@ As Leo, the player must collect five key items from the house without being dete
 [![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 [![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 
-## Secondary Objectives:
+## Secondary Objectives
 
 1. Create distractions to move family members away and make it easier to collect the items:
    - Turn off the TV in the living room: Forces Vinny's father to leave temporarily to check the issue.
@@ -77,7 +77,7 @@ As Leo, the player must collect five key items from the house without being dete
 
 ---
 
-## Defeat Condition:
+## Defeat Condition
 The player will fail the level if:
 - Leo is detected by cameras or sensors: Some areas have direct surveillance, which Vinny can disable temporarily, but mistakes cost the mission. Some cameras, even with access, Vinny cannot disable.
 - Leo is seen by family members: Any direct eye contact with the father, mother, or Clara results in failure.
@@ -87,7 +87,7 @@ The player will fail the level if:
 
 # 3. Level Structure and Design
 
-## Map and Layout:
+## Map and Layout
 The level is divided into several interconnected areas within the house, with alternative paths and points of interest.
 
 - **Garage (Starting Point):**  
@@ -111,7 +111,7 @@ The level is divided into several interconnected areas within the house, with al
 - **Basement:**  
   - A dark and messy space with sensors and cameras, where the USB is hidden.
 
-## Progression Sequence:
+## Progression Sequence
 1. **Garage (Start):**  
    - The player learns basic movement and interaction controls while Vinny explains the plan through the headset.
    
@@ -130,7 +130,7 @@ The level is divided into several interconnected areas within the house, with al
 6. **Basement:**  
    - Use the key to enter, avoid cameras, and grab the USB.
 
-## Exploration and Secrets:
+## Exploration and Secrets
 - **Secret Area:** A hidden panel in the garage conceals lore items, like Vinny's diary with ideas for future hacks.  
 - **Easter Egg:** In Clara's room, interacting with the plush rabbit plays a nostalgic song and triggers a funny dialogue between Vinny and Leo.  
 - **Collectibles:** Childhood photographs of Vinny scattered around the house, unlocking details about the friendship with Leo.
@@ -139,10 +139,10 @@ The level is divided into several interconnected areas within the house, with al
 
 # 4. Walkthrough (Step-by-Step)
 
-## Entering the Level: 
+## Entering the Level
 The player begins in the garage. Vinny introduces the objective: practice stealth and collect five key items without alerting the family. The player learns to move, create basic distractions, and hide.
 
-## Main Events:
+## Main Events
 1. **Living Room:**  
    - **Event:** Vinny turns off the TV to distract the father, who will talk to the mother if she turned it off, and then return to look for the remote. The player needs to act quickly to grab the watch.  
    - **Alternative Event:** Leo acquires the TV remote and turns it off to distract the father.
@@ -154,7 +154,7 @@ The player begins in the garage. Vinny introduces the objective: practice stealt
 3. **Basement:**  
    - **Event:** The player accidentally triggers an alarm when grabbing the USB, and Vinny needs to hack the system to disable it, adding a tension element.
 
-## Problem Solving: 
+## Problem Solving
 - **Motion Sensors:**  
   - Temporarily deactivated by Vinny, requiring precise coordination from the player.
 
@@ -164,14 +164,14 @@ The player begins in the garage. Vinny introduces the objective: practice stealt
 - **Cameras:**  
   - The player needs to identify movement patterns and proceed at the right moment.
 
-## Exiting the Level:
+## Exiting the Level
 After collecting all the necessary items, the player must return to the garage without being detected. Vinny creates a final distraction (cuts the power to the house for 10 seconds), allowing Leo to move quickly. The level ends with Vinny praising Leo but mentioning that the next real mission will be much harder.
 
 ---
 
 # 5. Characters and NPCs
 
-## Allies:
+## Allies
 - **Vinny (Operator):**  
   - **Role:** Remote operator and hacker guiding the mission.  
   - **Function:** Monitors the house's security systems, disables sensors, and triggers distractions to create safe windows for Leo’s stealth actions.  
@@ -188,9 +188,9 @@ After collecting all the necessary items, the player must return to the garage w
   - **Before turning off the WiFi:** "Ah, the WiFi's going out... Clara’s definitely going to freak. Enjoy! But we're gonna lose the..."
   - **In the basement:** "That alarm? My bad, I forgot to warn you. Think you can wing it?"
 
-## Enemies and Bosses:
+## Enemies and Bosses
 
-### Types of Enemies:
+### Types of Enemies
 1. **Motion Sensors:**
    - **Description:** Devices scattered throughout the house.
    - **Challenge:** Forces the player to observe their patterns and find alternative routes or time their movements.
@@ -203,10 +203,10 @@ After collecting all the necessary items, the player must return to the garage w
    - **Description:** A fixed NPC in the living room.
    - **Behavior:** He ignores small noises but will approach to investigate loud sounds.
 
-### Attack Patterns:
+### Attack Patterns
 - No enemy directly attacks, but sensors and cameras trigger alarms that increase the risk of detection.
 
-## Level Boss:
+## Level Boss
 - **Vinny’s Dad (Final Encounter):**
   - **Mechanic:** Before leaving the garage with all the items, Vinny’s dad gets up to investigate the basement (alerted by the alarm).
   - **Strategy:** The player needs to create a distraction (e.g., turn on tools in the garage) while escaping through the side door.
@@ -215,7 +215,7 @@ After collecting all the necessary items, the player must return to the garage w
 
 # 6. Level-Specific Mechanics
 
-## Division of Responsibilities:
+## Division of Responsibilities
 - **Vinny (Operator):**
   - **Role:** Stays at the computer, monitoring and managing the house's security systems.
   - **Function:** Uses the hacking interface to view sensor statuses, disable digital security measures (like cameras and sensor feeds), and analyze security logs to identify vulnerabilities. All of his actions are strictly computer-based.
@@ -226,7 +226,7 @@ After collecting all the necessary items, the player must return to the garage w
   - **Function:** Executes all physical interactions such as turning off the TV or WiFi using the remote control, scattering toys around the house, and manually interacting with physical switches and devices.
   - **Dependency:** Relies on Vinny’s real-time information and instructions to determine the optimal moment for physical actions.
 
-## New Mechanics or Tools:
+## New Mechanics or Tools
 
 1. **Remote Distractions:**
    - Vinny can activate elements like cutting the power, turning off the WiFi, or toggling lights to create opportunities for progress.
@@ -238,7 +238,7 @@ After collecting all the necessary items, the player must return to the garage w
 3. **Quick Hacking:**
    - During the basement encounter, the player must press buttons or complete a key sequence (mini-game) to temporarily disable the cameras.
 
-## Puzzles or Challenges:
+## Puzzles or Challenges
 
 1. **Disable Fridge Sensors:**
    - **Logic:** Find the control panel near the kitchen and disable it without triggering other sensors in the room.
@@ -247,7 +247,7 @@ After collecting all the necessary items, the player must return to the garage w
 2. **Unlocking the Basement Door:**
    - **Logic:** Collect the key in Vinny’s room. If the key isn’t found, the player can search for a hidden code in Clara’s room.
 
-## Scripted Events:
+## Scripted Events
 
 1. **WiFi Shutdown:**
    - **Event:** When the player turns off the WiFi, Clara storms out of her room, creating a window of time to grab the book.
@@ -424,7 +424,7 @@ Suggested mockups for representing:
 
 # 11. Prototyping
 
-## Testing Process: 
+## Testing Process
 
 1. **Develop an initial prototype** with a basic house layout to test gameplay flow and navigation.  
 2. **Position key interactive elements** such as sensors, distractions, and checkpoints, ensuring they support the intended difficulty curve.  
