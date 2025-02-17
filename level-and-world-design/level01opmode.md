@@ -2,7 +2,7 @@
 title: Level 01 - Vinny's House - Operator Mode
 description: 
 published: 1
-date: 2025-02-16T20:26:48.225Z
+date: 2025-02-17T12:32:52.868Z
 tags: flow, level flow, level01, mission, operator
 editor: markdown
 dateCreated: 2025-02-16T13:31:17.592Z
@@ -66,7 +66,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 [![Itens](https://i.imgur.com/qALPgOi.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 [![Itens](https://i.imgur.com/Zr9j9uC.jpeg "Itens")](https://imgur.com/a/zShKi9j)
 
-## Secondary Objectives:
+## Secondary Objectives
 
 1. **Create distractions to move family members away from key locations:**
    - Turning off the TV disrupts Vinny’s father.
@@ -77,7 +77,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
    - Vinny can interact with the house’s automated systems, revealing alternative paths and shortcuts.
    - Optional interactions with the home computer allow for in-depth exploration of Vinny’s hacking tools.
 
-## Defeat Conditions:
+## Defeat Conditions
 - Leo is detected by sensors or cameras.
 - Leo is spotted by family members.
 - At least three of the five key items are not collected.
@@ -86,7 +86,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 
 # 3. Level Structure and Design
 
-## Map and Layout:
+## Map and Layout
 - **Garage (Operator Hub):**  
   The garage is where Vinny operates his hacking setup. It’s outfitted with a computer terminal, multiple monitors displaying live security feeds, and interactive control panels for various house systems. This area acts as the central command for all remote actions.
   
@@ -105,7 +105,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 - **Vinny's Room:**  
   Contains the optional Gaming Mouse. This room is heavily guarded by both motion and sound sensors. Vinny must create a masking noise remotely to allow Leo to obtain the item undetected.
 
-## Progression Sequence:
+## Progression Sequence
 1. **Garage (Start):**  
    Vinny begins in the garage, familiarizing himself with the hacking interface and system statuses for all key areas.
 
@@ -125,14 +125,14 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 
 # 4. Walkthrough (Step-by-Step)
 
-## Entering the Level:
+## Entering the Level
 - **Initial Setup:**  
   Vinny starts in the garage with his hacking console active. The system overview displays all critical areas via live feeds, and Vinny receives a briefing outlining the objectives.
   
 - **Briefing:**  
   Objectives for each item (Can of Soda, Wristwatch, Book, USB, and the optional Gaming Mouse) are explained, along with the necessary remote actions required for Leo’s safe passage.
 
-## Step-by-Step Events:
+## Step-by-Step Events
 1. **Monitoring the Living Room:**
    - **Vinny's Action:** Hack the TV to induce static, distracting Vinny’s father.  
      **Alternative:** Leo can use the remote control to turn off the TV, achieving a similar distraction.
@@ -160,7 +160,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
    - **Leo's Action:** Enter Vinny’s Room, secure the Gaming Mouse, and exit without triggering the sensitive sensors.
    - **Outcome:** This task offers an additional challenge and requires heightened precision.
 
-## Exiting the Level:
+## Exiting the Level
 - **Final Coordination:**  
   After securing the primary items, Vinny orchestrates a final distraction (such as triggering noise in the garage) to cover Leo’s exit from the house.
   
@@ -169,7 +169,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
   
 # 5. Characters and NPCs
 
-## Allies:
+## Allies
 - **Vinny (Operator):**  
   - **Role:** Remote operator and hacker guiding the mission.  
   - **Function:** Monitors the house's security systems, disables sensors, and triggers distractions to create safe windows for Leo’s stealth actions.  
@@ -180,7 +180,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
   - **Function:** Moves stealthily through the house, follows Vinny's real-time guidance, and performs precise actions to collect the necessary items.  
   - **Personality:** Calm under pressure, focused, and adaptive; Leo is quick on his feet, demonstrating excellent situational awareness and precision.
 
-## NPC Family Members:
+## NPC Family Members
 - **Vinny’s Father:**  
   Occupies the living room, often watching TV. His presence creates a challenge for retrieving the wristwatch. He can be distracted when the TV is hacked or turned off by Leo using the remote control.
   
@@ -190,11 +190,11 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 - **Clara:**  
   Vinny's younger sister, usually found in her room reading *The Little Prince*. She might leave her room either to check the WiFi when it goes down or when her toys are scattered by Vinny’s strategic distractions, creating a window of opportunity.
 
-## Interactive Elements:
+## Interactive Elements
 - **Security Devices:**  
   Static elements such as cameras, motion sensors, and alarms, which behave like NPCs with predictable patterns. These devices require Vinny's intervention to be temporarily disabled or overridden.
 
-## Dialogue and Interactions:
+## Dialogue and Interactions
 - **Real-Time Banter:**  
   Vinny delivers humorous and strategic commentary while managing the house systems. For example:
   - When disabling the TV: “I’ve shut it off — my dad’s about to catch on!”
@@ -205,7 +205,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 
 # 6. Level-Specific Mechanics
 
-## Division of Responsibilities:
+## Division of Responsibilities
 - **Vinny (Operator):**
   - **Role:** Stays at the computer, monitoring and managing the house's security systems.
   - **Function:** Uses the hacking interface to view sensor statuses, disable digital security measures (like cameras and sensor feeds), and analyze security logs to identify vulnerabilities. All of his actions are strictly computer-based.
@@ -216,7 +216,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
   - **Function:** Executes all physical interactions such as turning off the TV or WiFi using the remote control, scattering toys around the house, and manually interacting with physical switches and devices.
   - **Dependency:** Relies on Vinny’s real-time information and instructions to determine the optimal moment for physical actions.
 
-## Key Mechanics:
+## Key Mechanics
 1. **Computer-Based Actions (Vinny):**
    - Monitors live security feeds and sensor statuses.
    - Sends digital override commands to temporarily disable certain security measures (e.g., camera feeds or sensor alerts).
@@ -242,7 +242,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
    - Each digital intervention from Vinny provides a limited window during which Leo must perform the corresponding physical action.
    - Failure by Leo to act within this window, or miscommunication between the two, can lead to detection by sensors or family members, jeopardizing the mission.
 
-## Puzzles or Challenges (Vinny's Computer Tasks):
+## Puzzles or Challenges (Vinny's Computer Tasks)
 
 1. **Disable Fridge Sensors (Remote Override):**
    - **Logic:** From his computer, Vinny must access the kitchen sensor network and override its control signals. This involves a mini-game where he selects the correct combination of circuit nodes to disable the sensors without triggering alerts.
@@ -254,7 +254,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
    - **Hint:** Look for anomalies in the access logs—repeated errors or out-of-place numbers can hint at the correct code.
    - **Outcome:** Successfully completing the puzzle either provides Leo with the information on where to find the key or remotely unlocks the basement door for him.
 
-## Scripted Events (Triggered via Vinny's Computer Interface):
+## Scripted Events (Triggered via Vinny's Computer Interface)
 
 1. **WiFi Shutdown:**
    - **Event:** Vinny sends a shutdown command from his computer, disabling the house's WiFi for a short duration.
@@ -283,7 +283,7 @@ Assist Leo in retrieving five key items from the house without triggering alarms
 ## Vinny's Garage: The Heart of the Operation
 Vinny's garage is a modest, cluttered space that doubles as a high-tech command center. Though it looks like an ordinary suburban garage—with scattered tools, car parts, and miscellaneous electronics—it has been transformed into a hacker’s playground where ingenuity meets cutting-edge technology.
 
-### Physical Environment:
+### Physical Environment
 - **Workspace:**  
   A weathered workbench cluttered with circuit boards, soldering irons, and loose cables sets the scene. Amid the organized chaos sits Vinny’s custom-built computer rig—a fusion of modern hardware with retro elements. Several old CRT monitors mix with a few sleek LCD screens, all connected to a maze of wires and circuit boards.
 - **Ambiance:**  
@@ -299,7 +299,7 @@ At the core of Vinny’s operations is **NeoShell OS**, a Unix-based operating s
 
 <br>
 
-### Key Features:
+### Key Features
 - **Minimalistic Interface:**  
   The OS sports a sleek, dark theme accented with neon highlights. Its modular layout allows Vinny to quickly switch between tasks, keeping his digital workspace uncluttered and highly efficient.
 - **Core Applications:**
@@ -317,7 +317,7 @@ At the core of Vinny’s operations is **NeoShell OS**, a Unix-based operating s
 - **Customization & Scripting:**  
   Full support for scripting languages like Bash and Python allows Vinny to automate tasks, customize his workflow, and develop bespoke solutions on the fly.
 
-## Narrative Integration:
+## Narrative Integration
 Vinny’s garage and his NeoShell OS are more than just tools; they’re an extension of his persona. The environment reflects the blend of old-school DIY spirit and modern cyber warfare. Every cable, monitor, and piece of hardware tells a story of countless hours spent honing his craft, making the garage not just a workspace, but a character in its own right within the narrative. This is where Vinny devises strategies, tests new software, and collaborates closely with Leo to execute high-stakes missions.
 
 ---
@@ -335,7 +335,7 @@ Vinny’s garage and his NeoShell OS are more than just tools; they’re an exte
   - **High-Stakes Digital Interventions:**  
     In critical moments (e.g., during the Basement Alarm sequence), time windows shrink dramatically. Players must quickly execute complex sequences using NexShell and the hacking suite. Failure to act swiftly or accurately can jeopardize the mission, increasing the tension and challenge.
   
-## Adaptive Checkpoints:
+## Adaptive Checkpoints
 - **Digital Checkpoints:**  
   Key milestones within the digital puzzles are saved, allowing players to retry challenging sequences—like bypassing a firewall to unlock the basement door—without restarting the entire operation.
 - **Dynamic Scaling:**  
@@ -345,7 +345,7 @@ Vinny’s garage and his NeoShell OS are more than just tools; they’re an exte
 
 # 9. Gameplay Testing
 
-## Testing Focus Areas:
+## Testing Focus Areas
 - **System Usability:**
   - **Interface Clarity:**  
     Ensure that the minimalist design of NeoShell OS is intuitive. Test the responsiveness and accessibility of core applications such as NexShell and NexSurf.
@@ -364,7 +364,7 @@ Vinny’s garage and his NeoShell OS are more than just tools; they’re an exte
   - **Stress Testing:**  
     Simulate high-pressure scenarios to determine if the system’s performance and interface remain stable under rapid, multi-task conditions.
 
-## Data Collection Methods:
+## Data Collection Methods
 - **Observational Testing:**  
   Watch players interact with NeoShell OS in real time to identify any confusing elements or interface bottlenecks.
 - **Quantitative Metrics:**  
@@ -372,7 +372,7 @@ Vinny’s garage and his NeoShell OS are more than just tools; they’re an exte
 - **User Surveys and Interviews:**  
   Gather qualitative feedback on the OS’s usability, the intuitiveness of the interface, and the overall experience of managing the digital tools under time pressure.
 
-## Iteration Process:
+## Iteration Process
 - **Prototype Development:**  
   Build an initial version of the NeoShell OS environment within the game. Conduct focused playtesting sessions to validate the interface design and functionality of the integrated tools.
 - **Feedback Integration:**  
